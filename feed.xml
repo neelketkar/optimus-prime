@@ -953,5 +953,23 @@ Further Reading:
       <itunes:keywords>obituaries,history,biography,memorials,briefly remembered</itunes:keywords>
       <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749248313/uuf16a7bldsc4mecqrm1.png"/>
     </item>
+    <item>
+      <title>Charles Bukowski: Poet of Life&apos;s Underbelly (1920-1994)</title>
+      <itunes:title>Charles Bukowski: Poet of Life&apos;s Underbelly (1920-1994)</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[]]></description>
+      <itunes:summary><![CDATA[Explore the raw, unflinching world of Charles Bukowski, the prolific poet and novelist who gave voice to America's gritty underground through sixty groundbreaking books.]]></itunes:summary>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <enclosure url="http://res.cloudinary.com/dumslp4el/video/upload/v1749546685/airtable_audio/rd87fgdvytt3ospty4mo.mp3" 
+                 length="1256000"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">recSAJeCnmIJQoSvY</guid>
+      <pubDate>Wed, 09 Mar 1994 08:01:00 GMT</pubDate>
+      <itunes:duration>00:02:37</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>obituaries,history,biography,memorials,briefly remembered</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749248313/uuf16a7bldsc4mecqrm1.png"/>
+    </item>
   </channel>
 </rss>
