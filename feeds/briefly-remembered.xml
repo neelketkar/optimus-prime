@@ -1,27 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
   <channel>
     <title>Briefly Remembered</title>
     <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
     <language>en-us</language>
-    <itunes:author>Optimus Prime</itunes:author>
-    <itunes:summary>"Briefly Remembered: 3 Minute Obituaries" is a poignant and concise podcast series that pays tribute to the lives of remarkable individuals who have left an indelible mark on the world. Each episode, lasting just three minutes, captures the essence of a person's journey, highlighting their achievements, challenges, and lasting legacy. 
-
-This series offers a unique blend of past legends and contemporary icons. From Hollywood mavericks and sports legends to musical prodigies and cultural icons, each episode provides a snapshot of a life well-lived. Whether it's the fearless final act of Val Kilmer, the eternal glory of Gary Carter, or the transformative impact of Irv Gotti, "Briefly Remembered" ensures that the memories of these incredible individuals are preserved and celebrated.
-
-In addition to honoring past legends, the podcast also features brand new episodes every time someone famous passes away, ensuring that the series remains timely and relevant. Perfect for a quick listen during a commute, a break, or anytime you need a moment of reflection, "Briefly Remembered" offers a concise yet profound way to remember and celebrate the lives of those who have shaped our world.</itunes:summary>
-    <description>"Briefly Remembered: 3 Minute Obituaries" is a poignant and concise podcast series that pays tribute to the lives of remarkable individuals who have left an indelible mark on the world. Each episode, lasting just three minutes, captures the essence of a person's journey, highlighting their achievements, challenges, and lasting legacy. 
-
-This series offers a unique blend of past legends and contemporary icons. From Hollywood mavericks and sports legends to musical prodigies and cultural icons, each episode provides a snapshot of a life well-lived. Whether it's the fearless final act of Val Kilmer, the eternal glory of Gary Carter, or the transformative impact of Irv Gotti, "Briefly Remembered" ensures that the memories of these incredible individuals are preserved and celebrated.
-
-In addition to honoring past legends, the podcast also features brand new episodes every time someone famous passes away, ensuring that the series remains timely and relevant. Perfect for a quick listen during a commute, a break, or anytime you need a moment of reflection, "Briefly Remembered" offers a concise yet profound way to remember and celebrate the lives of those who have shaped our world.</description>
-    <itunes:explicit>false</itunes:explicit>
+    <copyright>(c) 2025. All rights reserved.</copyright>
+    <managingEditor>pukka.flashy5g@icloud.com (Optimus Prime)</managingEditor>
+    <generator>Airtable</generator>
+    <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/briefly-remembered" rel="self" type="application/rss+xml"/>
     <itunes:owner>
       <itunes:name>Optimus Prime</itunes:name>
       <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749248313/uuf16a7bldsc4mecqrm1.png" />
-    <itunes:category text="Society & Culture > History, News > Obituaries, Arts > Biography" />
-    <copyright>(c) 2025. All rights reserved.</copyright>
+    <itunes:author>Optimus Prime</itunes:author>
+    <description><![CDATA["Briefly Remembered: 3 Minute Obituaries" is a poignant and concise podcast series that pays tribute to the lives of remarkable individuals who have left an indelible mark on the world. Each episode, lasting just three minutes, captures the essence of a person's journey, highlighting their achievements, challenges, and lasting legacy. 
+
+This series offers a unique blend of past legends and contemporary icons. From Hollywood mavericks and sports legends to musical prodigies and cultural icons, each episode provides a snapshot of a life well-lived. Whether it's the fearless final act of Val Kilmer, the eternal glory of Gary Carter, or the transformative impact of Irv Gotti, "Briefly Remembered" ensures that the memories of these incredible individuals are preserved and celebrated.
+
+In addition to honoring past legends, the podcast also features brand new episodes every time someone famous passes away, ensuring that the series remains timely and relevant. Perfect for a quick listen during a commute, a break, or anytime you need a moment of reflection, "Briefly Remembered" offers a concise yet profound way to remember and celebrate the lives of those who have shaped our world.]]></description>
+    <itunes:summary><![CDATA[Three minute podcast episodes celebrate notable lives through concise tributes and timely remembrances of famous figures.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749248313/uuf16a7bldsc4mecqrm1.png"/>
+    <image>
+      <url>https://res.cloudinary.com/dumslp4el/image/upload/v1749248313/uuf16a7bldsc4mecqrm1.png</url>
+      <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
+      <title>Briefly Remembered</title>
+    </image>
+    <itunes:category text="Society &amp; Culture &gt; History, News &gt; Obituaries, Arts &gt; Biography"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
+    <item>
+      <title>The Second Pick: David Greenwood&apos;s Untold Legacy</title>
+      <itunes:title>The Second Pick: David Greenwood&apos;s Untold Legacy</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[]]></description>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1749938267/airtable_audio/20250614-215638-rec9zt6rZoRtQPSUi-40edc.mp3" 
+                 length="2136000"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">rec9zt6rZoRtQPSUi</guid>
+      <pubDate>Sat, 14 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:04:27</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749248313/uuf16a7bldsc4mecqrm1.png"/>
+    </item>
+    <item>
+      <title>Brian Wilson: The Troubled Genius Who Heard Tomorrow&apos;s Music</title>
+      <itunes:title>Brian Wilson: The Troubled Genius Who Heard Tomorrow&apos;s Music</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[]]></description>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/e_volume:-70/l_audio:airtable_audio:wavesofgoodbyev1/fl_layer_apply/l_audio:airtable_audio:brianwilson/e_volume:500/fl_layer_apply,so_2.0,eo_113/airtable_audio/wavesofgoodbyev1" 
+                 length="2392000"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">recG3ASFDwlG6r38b</guid>
+      <pubDate>Fri, 13 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:04:59</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749248313/uuf16a7bldsc4mecqrm1.png"/>
+    </item>
   </channel>
 </rss>
