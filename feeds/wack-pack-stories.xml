@@ -59,5 +59,35 @@ Further Reading:
       <itunes:keywords>tech,updates,news</itunes:keywords>
       <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750007787/airtable_audio/recDpa1nfK149mwlL-c02e6.jpg"/>
     </item>
+    <item>
+      <title>From Wallflower to Wack Pack King: The Beetlejuice Story</title>
+      <itunes:title>From Wallflower to Wack Pack King: The Beetlejuice Story</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[In this landmark episode of Wack Pack Stories, we delve into the extraordinary first appearance of Beetlejuice on The Howard Stern Show, a moment that would forever change radio history. On July 14, 1999, Lester Green, standing at 4'3" with microcephaly, quietly entered the studio alongside another performer from Sean Rooney's dwarf-tossing business. Despite not being the intended focus, Howard Stern's legendary instincts immediately recognized something special in Beetle. His unique personality and unpredictable responses created instant radio magic, leading Stern to declare him a "once in a lifetime guest." The episode reveals fascinating details about Beetle's debut, including actor Jerry O'Connell's surprising connection as he called in to share that Beetle was once his mother's student. From this humble beginning, Beetlejuice would go on to become a cultural phenomenon, appearing in Hollywood films, creating iconic catchphrases, and eventually being crowned the greatest Wack Packer of all time in 2015. This episode captures the essence of how an unexpected guest standing quietly in the back of the studio would become one of the most beloved figures in radio entertainment history, proving that true star power can emerge from the most unlikely sources.
+
+Further Reading:
+• "Howard Stern Comes Again" - Book (https://www.amazon.com/Howard-Stern-Comes-Again/dp/1501194291)
+• "Private Parts" - Movie (https://www.amazon.com/Private-Parts-Howard-Stern/dp/B000GUJZ0G)
+• "The History of Howard Stern" (https://www.siriusxm.com/howard-stern-history)
+• "Beetlejuice: The Big Man Despite His Size" (https://www.howardstern.com/show/beetlejuice)]]></description>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <content:encoded><![CDATA[In this landmark episode of Wack Pack Stories, we delve into the extraordinary first appearance of Beetlejuice on The Howard Stern Show, a moment that would forever change radio history. On July 14, 1999, Lester Green, standing at 4'3" with microcephaly, quietly entered the studio alongside another performer from Sean Rooney's dwarf-tossing business. Despite not being the intended focus, Howard Stern's legendary instincts immediately recognized something special in Beetle. His unique personality and unpredictable responses created instant radio magic, leading Stern to declare him a "once in a lifetime guest." The episode reveals fascinating details about Beetle's debut, including actor Jerry O'Connell's surprising connection as he called in to share that Beetle was once his mother's student. From this humble beginning, Beetlejuice would go on to become a cultural phenomenon, appearing in Hollywood films, creating iconic catchphrases, and eventually being crowned the greatest Wack Packer of all time in 2015. This episode captures the essence of how an unexpected guest standing quietly in the back of the studio would become one of the most beloved figures in radio entertainment history, proving that true star power can emerge from the most unlikely sources.
+
+Further Reading:
+• "Howard Stern Comes Again" - Book (https://www.amazon.com/Howard-Stern-Comes-Again/dp/1501194291)
+• "Private Parts" - Movie (https://www.amazon.com/Private-Parts-Howard-Stern/dp/B000GUJZ0G)
+• "The History of Howard Stern" (https://www.siriusxm.com/howard-stern-history)
+• "Beetlejuice: The Big Man Despite His Size" (https://www.howardstern.com/show/beetlejuice)]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750007931/airtable_audio/recfGGKaTTnXkWbZb-e2ff9.mp3" 
+                 length="1572308"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">recfGGKaTTnXkWbZb</guid>
+      <pubDate>Mon, 16 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:03:17</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750007787/airtable_audio/recDpa1nfK149mwlL-c02e6.jpg"/>
+    </item>
   </channel>
 </rss>
