@@ -29,5 +29,35 @@
     <itunes:category text="Comedy &gt; Comedy Interviews, Entertainment &gt; TV &amp; Film, Society &amp; Culture &gt; Personal Journals"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
+    <item>
+      <title>The Day Eric the Actor Called: A Legend Begins</title>
+      <itunes:title>The Day Eric the Actor Called: A Legend Begins</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[In this unforgettable episode of Wack Pack Stories, we revisit the momentous day when Eric the Actor first graced the Howard Stern Show airwaves. On September 19th, 2002, an unexpected call from Sacramento changed radio history forever when Eric Shaun Lynch's distinctive voice rang through to defend Kelly Clarkson. Standing at 3'5" and living with Ehlers-Danlos syndrome, Eric's initial interaction sparked what would become one of the most legendary relationships in the show's history. From his adamant refusal to accept the nickname "Eric the Midget" to his passionate celebrity crushes, including Beverley Mitchell from 7th Heaven, Eric's unfiltered personality and unwavering determination made him an instant phenomenon. His recurring calls, marked by heated arguments with Howard, ambitious demands, and the infamous balloon saga, transformed him from a regular caller into a beloved Wack Pack icon. Despite his passing in 2014 at age 39, Eric's legacy endures through his memorable catchphrases, uncompromising attitude, and the indelible mark he left on the show's history. This episode captures the essence of how a simple phone call evolved into one of the most cherished chapters in Howard Stern Show history.
+
+Further Reading:
+• Howard Stern Comes Again - Book (https://www.amazon.com/Howard-Stern-Comes-Again/dp/1501194291)
+• Eric the Actor: A Tribute - Documentary (https://www.amazon.com/Howard-Stern-Show-Eric-Actor/dp/B00NQGP4RE)
+• Rolling Stone's Eric the Actor Tribute (https://www.rollingstone.com/culture/culture-news/eric-the-actor-howard-stern-show-wack-packer-dead-at-39-186727/)
+• The Wack Pack: An Oral History - Book (https://www.amazon.com/Wack-Pack-History-Howard-Stern/dp/1982144785)]]></description>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <content:encoded><![CDATA[In this unforgettable episode of Wack Pack Stories, we revisit the momentous day when Eric the Actor first graced the Howard Stern Show airwaves. On September 19th, 2002, an unexpected call from Sacramento changed radio history forever when Eric Shaun Lynch's distinctive voice rang through to defend Kelly Clarkson. Standing at 3'5" and living with Ehlers-Danlos syndrome, Eric's initial interaction sparked what would become one of the most legendary relationships in the show's history. From his adamant refusal to accept the nickname "Eric the Midget" to his passionate celebrity crushes, including Beverley Mitchell from 7th Heaven, Eric's unfiltered personality and unwavering determination made him an instant phenomenon. His recurring calls, marked by heated arguments with Howard, ambitious demands, and the infamous balloon saga, transformed him from a regular caller into a beloved Wack Pack icon. Despite his passing in 2014 at age 39, Eric's legacy endures through his memorable catchphrases, uncompromising attitude, and the indelible mark he left on the show's history. This episode captures the essence of how a simple phone call evolved into one of the most cherished chapters in Howard Stern Show history.
+
+Further Reading:
+• Howard Stern Comes Again - Book (https://www.amazon.com/Howard-Stern-Comes-Again/dp/1501194291)
+• Eric the Actor: A Tribute - Documentary (https://www.amazon.com/Howard-Stern-Show-Eric-Actor/dp/B00NQGP4RE)
+• Rolling Stone's Eric the Actor Tribute (https://www.rollingstone.com/culture/culture-news/eric-the-actor-howard-stern-show-wack-packer-dead-at-39-186727/)
+• The Wack Pack: An Oral History - Book (https://www.amazon.com/Wack-Pack-History-Howard-Stern/dp/1982144785)]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750006889/airtable_audio/reccKJUgYDoThE2MH-d8cca.mp3" 
+                 length="1614154"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">reccKJUgYDoThE2MH</guid>
+      <pubDate>Sun, 15 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750006706/airtable_audio/recDpa1nfK149mwlL-ac77b.jpg"/>
+    </item>
   </channel>
 </rss>
