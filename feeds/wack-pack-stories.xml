@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Wack Pack Stories</title>
+    <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
+    <language>en-us</language>
+    <itunes:author>Optimus Prime </itunes:author>
+    <itunes:summary>Tales from wack packers and the Howard Stern Show</itunes:summary>
+    <description>Tales from wack packers and the Howard Stern Show</description>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>Optimus Prime </itunes:name>
+      <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750006706/airtable_audio/recDpa1nfK149mwlL-ac77b.jpg" />
+    <itunes:category text="Society & Culture" />
+    <copyright>(c) 2025. All rights reserved.</copyright>
+  </channel>
+</rss>
