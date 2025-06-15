@@ -162,6 +162,24 @@ Further Reading:
       <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749951996/airtable_audio/recenJmvMx4bGucGV-f32e3.png"/>
     </item>
     <item>
+      <title></title>
+      <itunes:title></itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[]]></description>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <content:encoded><![CDATA[]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1749964888/airtable_audio/recWiocXDIyX7INv5-d8abd.mp3" 
+                 length="1618462"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">recWiocXDIyX7INv5</guid>
+      <pubDate>Wed, 18 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:03:22</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749951996/airtable_audio/recenJmvMx4bGucGV-f32e3.png"/>
+    </item>
+    <item>
       <title>Bagels: From Secret Currency to Billion-Dollar Bread</title>
       <itunes:title>Bagels: From Secret Currency to Billion-Dollar Bread</itunes:title>
       <itunes:episodeType>full</itunes:episodeType>
