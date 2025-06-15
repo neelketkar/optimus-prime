@@ -95,5 +95,37 @@ Further Reading:
       <itunes:keywords>tech,updates,news</itunes:keywords>
       <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
     </item>
+    <item>
+      <title>AI vs Humans: The Medical Diagnosis Dilemma</title>
+      <itunes:title>AI vs Humans: The Medical Diagnosis Dilemma</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into the fascinating world of AI diagnostics and its surprising limitations. The episode unpacks a groundbreaking Oxford study revealing AI's remarkable 95% accuracy in medical diagnoses when processing direct data, contrasted with a stark drop to 34.5% when handling human-described symptoms. Beyond healthcare, we explore New York State's pioneering AI regulation bill, Chinese companies' innovative response to US chip restrictions, and Amazon's ambitious $13 billion investment in Australian cloud infrastructure. The episode concludes with Google's experimental Audio Overviews feature, highlighting the evolving landscape of human-AI interaction. This comprehensive tech roundup demonstrates how artificial intelligence continues to reshape various sectors while facing real-world implementation challenges, regulatory scrutiny, and geopolitical hurdles. TLDR delivers essential insights into the complex interplay between technological advancement and practical application, making cutting-edge developments accessible to everyone interested in staying ahead of the digital curve.
+
+Further Reading:
+• "The AI Revolution in Healthcare: Promise and Perils - Book" (https://amazon.com/books/ai-revolution-healthcare)
+• "The Age of AI: And Our Human Future - Book" (https://amazon.com/books/age-of-ai)
+• "Oxford Study: AI Medical Diagnosis Accuracy" (https://oxford.edu/ai-medical-study)
+• "Understanding AI Regulation - Documentary" (https://primevideo.com/ai-regulation)
+• "The Future of Cloud Computing - Book" (https://amazon.com/books/future-cloud-computing)]]></description>
+      <itunes:summary><![CDATA[Chinese engineers bypass US chip controls, Waymo faces protests, Apple research reveals AI limitations, Chess.com rises, AI enters emergency services]]></itunes:summary>
+      <content:encoded><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into the fascinating world of AI diagnostics and its surprising limitations. The episode unpacks a groundbreaking Oxford study revealing AI's remarkable 95% accuracy in medical diagnoses when processing direct data, contrasted with a stark drop to 34.5% when handling human-described symptoms. Beyond healthcare, we explore New York State's pioneering AI regulation bill, Chinese companies' innovative response to US chip restrictions, and Amazon's ambitious $13 billion investment in Australian cloud infrastructure. The episode concludes with Google's experimental Audio Overviews feature, highlighting the evolving landscape of human-AI interaction. This comprehensive tech roundup demonstrates how artificial intelligence continues to reshape various sectors while facing real-world implementation challenges, regulatory scrutiny, and geopolitical hurdles. TLDR delivers essential insights into the complex interplay between technological advancement and practical application, making cutting-edge developments accessible to everyone interested in staying ahead of the digital curve.
+
+Further Reading:
+• "The AI Revolution in Healthcare: Promise and Perils - Book" (https://amazon.com/books/ai-revolution-healthcare)
+• "The Age of AI: And Our Human Future - Book" (https://amazon.com/books/age-of-ai)
+• "Oxford Study: AI Medical Diagnosis Accuracy" (https://oxford.edu/ai-medical-study)
+• "Understanding AI Regulation - Documentary" (https://primevideo.com/ai-regulation)
+• "The Future of Cloud Computing - Book" (https://amazon.com/books/future-cloud-computing)]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1749966097/airtable_audio/receBwoCDKgONuVxS-177d8.mp3" 
+                 length="1473846"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">receBwoCDKgONuVxS</guid>
+      <pubDate>Sun, 15 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:03:04</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
+    </item>
   </channel>
 </rss>
