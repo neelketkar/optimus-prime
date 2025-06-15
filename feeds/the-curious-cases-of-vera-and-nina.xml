@@ -6,27 +6,27 @@
     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
   <channel>
     <title>The Curious Cases of Vera and Nina</title>
-    <link></link>
+    <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
     <language>en-us</language>
     <copyright>(c) 2025. All rights reserved.</copyright>
-    <managingEditor> (Optimus Prime)</managingEditor>
+    <managingEditor>neel.ketkar@gmail.com (Optimus Prime)</managingEditor>
     <generator>Airtable</generator>
     <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/the-curious-cases-of-vera-and-nina" rel="self" type="application/rss+xml"/>
     <itunes:owner>
       <itunes:name>Optimus Prime</itunes:name>
-      <itunes:email></itunes:email>
+      <itunes:email>neel.ketkar@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:author>Optimus Prime</itunes:author>
     <description><![CDATA[In the Sunset Park neighborhood of Santa Monica, sister sleuths Vera (11) and Nina (8) investigate the quirkiest mysteries around their school, park, and block. Alongside their trusty beagle Bean and their overly dramatic assistant Herman the squirrel, they unravel strange clues, decode neighborly secrets, and stumble into delightfully bizarre adventures. Local, lighthearted, and full of heart — with a mystery in every episode.]]></description>
     <itunes:summary><![CDATA[Two young sisters solve whimsical neighborhood mysteries with their beagle and a dramatic squirrel.]]></itunes:summary>
     <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750008586/airtable_audio/recRYs7dkDyg2IHeU-8f2e9.jpg"/>
+    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750009187/airtable_audio/recRYs7dkDyg2IHeU-2db27.jpg"/>
     <image>
-      <url>https://res.cloudinary.com/dumslp4el/image/upload/v1750008586/airtable_audio/recRYs7dkDyg2IHeU-8f2e9.jpg</url>
-      <link></link>
+      <url>https://res.cloudinary.com/dumslp4el/image/upload/v1750009187/airtable_audio/recRYs7dkDyg2IHeU-2db27.jpg</url>
+      <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
       <title>The Curious Cases of Vera and Nina</title>
     </image>
-    <itunes:category text=""/>
+    <itunes:category text="Kids &amp; Family &gt; Stories for Kids, Fiction &gt; Kids &amp; Family, Arts &gt; Fiction"/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
     <item>
@@ -59,7 +59,7 @@ Further Reading:
       <itunes:duration>00:04:45</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750008586/airtable_audio/recRYs7dkDyg2IHeU-8f2e9.jpg"/>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750009187/airtable_audio/recRYs7dkDyg2IHeU-2db27.jpg"/>
     </item>
   </channel>
 </rss>
