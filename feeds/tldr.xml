@@ -127,5 +127,37 @@ Further Reading:
       <itunes:keywords>tech,updates,news</itunes:keywords>
       <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
     </item>
+    <item>
+      <title>AI Chaos: From Chess Champs to Suitcase Smugglers</title>
+      <itunes:title>AI Chaos: From Chess Champs to Suitcase Smugglers</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into the transformative AI legislation passed by New York State, marking a pivotal moment in tech regulation. The groundbreaking bill introduces stringent safety and transparency requirements for frontier AI models, potentially reshaping how industry giants like OpenAI, Google, and Anthropic operate. We explore the fascinating world of tech workarounds, from Chinese companies' creative solutions to US chip restrictions to Taiwan's strategic export controls affecting Huawei and SMIC. The episode highlights crucial findings from Oxford's research on AI medical capabilities, revealing a stark contrast between controlled testing and real-world performance. We also examine the ongoing debate sparked by Apple's controversial paper on AI reasoning, featuring insights from Gary Marcus's analysis of various rebuttals. The discussion extends to Amazon's historic $13 billion investment in Australian data centers and concludes with an unexpected success story from Chess.com, which has become a haven for professional athletes seeking meaningful online competition.
+
+Further Reading:
+• "The Age of AI: And Our Human Future" - Book (https://www.amazon.com/Age-AI-Our-Human-Future/dp/0316273805)
+• "AI Superpowers: China, Silicon Valley, and the New World Order" - Book (https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
+• "The Big Tech Accountability Act" (https://www.nysenate.gov/legislation/bills/2023/S9614)
+• "AI Safety and Ethics: A Comprehensive Guide" - Book (https://www.amazon.com/AI-Safety-Ethics-Comprehensive-Guide/dp/1119821304)
+• "AlphaGo" - Documentary (https://www.amazon.com/AlphaGo-Demis-Hassabis/dp/B06XSFL1W7)]]></description>
+      <itunes:summary><![CDATA[OpenAI expands cloud partnerships with Google Cloud and CoreWeave, marking shift in tech alliances and computing infrastructure]]></itunes:summary>
+      <content:encoded><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into the transformative AI legislation passed by New York State, marking a pivotal moment in tech regulation. The groundbreaking bill introduces stringent safety and transparency requirements for frontier AI models, potentially reshaping how industry giants like OpenAI, Google, and Anthropic operate. We explore the fascinating world of tech workarounds, from Chinese companies' creative solutions to US chip restrictions to Taiwan's strategic export controls affecting Huawei and SMIC. The episode highlights crucial findings from Oxford's research on AI medical capabilities, revealing a stark contrast between controlled testing and real-world performance. We also examine the ongoing debate sparked by Apple's controversial paper on AI reasoning, featuring insights from Gary Marcus's analysis of various rebuttals. The discussion extends to Amazon's historic $13 billion investment in Australian data centers and concludes with an unexpected success story from Chess.com, which has become a haven for professional athletes seeking meaningful online competition.
+
+Further Reading:
+• "The Age of AI: And Our Human Future" - Book (https://www.amazon.com/Age-AI-Our-Human-Future/dp/0316273805)
+• "AI Superpowers: China, Silicon Valley, and the New World Order" - Book (https://www.amazon.com/AI-Superpowers-China-Silicon-Valley/dp/132854639X)
+• "The Big Tech Accountability Act" (https://www.nysenate.gov/legislation/bills/2023/S9614)
+• "AI Safety and Ethics: A Comprehensive Guide" - Book (https://www.amazon.com/AI-Safety-Ethics-Comprehensive-Guide/dp/1119821304)
+• "AlphaGo" - Documentary (https://www.amazon.com/AlphaGo-Demis-Hassabis/dp/B06XSFL1W7)]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1749966460/airtable_audio/recn9E2Ptdlu7k0fe-7025c.mp3" 
+                 length="1854769"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">recn9E2Ptdlu7k0fe</guid>
+      <pubDate>Thu, 12 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:03:52</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
+    </item>
   </channel>
 </rss>
