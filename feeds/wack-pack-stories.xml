@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
   <channel>
     <title>Wack Pack Stories</title>
     <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
     <language>en-us</language>
-    <itunes:author>Optimus Prime </itunes:author>
-    <itunes:summary>Tales from wack packers and the Howard Stern Show</itunes:summary>
-    <description>Tales from wack packers and the Howard Stern Show</description>
-    <itunes:explicit>false</itunes:explicit>
+    <copyright>(c) 2025. All rights reserved.</copyright>
+    <managingEditor>pukka.flashy5g@icloud.com (Optimus Prime )</managingEditor>
+    <generator>Airtable</generator>
+    <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/wack-pack-stories" rel="self" type="application/rss+xml"/>
     <itunes:owner>
       <itunes:name>Optimus Prime </itunes:name>
       <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
     </itunes:owner>
-    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750006706/airtable_audio/recDpa1nfK149mwlL-ac77b.jpg" />
-    <itunes:category text="Society & Culture" />
-    <copyright>(c) 2025. All rights reserved.</copyright>
+    <itunes:author>Optimus Prime </itunes:author>
+    <description><![CDATA[Tales from wack packers and the Howard Stern Show]]></description>
+    <itunes:summary><![CDATA[Behind the scenes stories and outrageous moments from Howard Sterns iconic radio personalities.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750006706/airtable_audio/recDpa1nfK149mwlL-ac77b.jpg"/>
+    <image>
+      <url>https://res.cloudinary.com/dumslp4el/image/upload/v1750006706/airtable_audio/recDpa1nfK149mwlL-ac77b.jpg</url>
+      <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
+      <title>Wack Pack Stories</title>
+    </image>
+    <itunes:category text="Comedy &gt; Comedy Interviews, Entertainment &gt; TV &amp; Film, Society &amp; Culture &gt; Personal Journals"/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
   </channel>
 </rss>
