@@ -31,5 +31,35 @@ Expect smart recaps, nerdy analysis, and the occasional overreaction. Whether yo
     <itunes:category text=""/>
     <itunes:explicit>no</itunes:explicit>
     <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
+    <item>
+      <title>Mets Meltdown: Tampa&apos;s Father&apos;s Day Sweep Stings</title>
+      <itunes:title>Mets Meltdown: Tampa&apos;s Father&apos;s Day Sweep Stings</itunes:title>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[In this sobering episode of Mets Report, we dive deep into the aftermath of a devastating series sweep by the Tampa Bay Rays, culminating in a 9-0 Father's Day defeat at Citi Field. The episode dissects Griffin Canning's troubling performance, where he surrendered seven earned runs and three home runs over five innings, highlighting the growing concerns about the Mets' rotation stability. The analysis explores the team's offensive struggles against elite pitching, managing just five hits against Shane Baz and the Rays' bullpen. While maintaining perspective on the Mets' overall position above .500 and their wild card contention, the episode examines critical areas needing improvement, particularly the rotation depth beyond Senga and Peterson. Special attention is paid to the red-hot Rays, who've won 18 of their last 24 games, including standout performances from Jose Caballero. The discussion concludes with a look ahead to the upcoming Marlins series, addressing the necessary adjustments Buck Showalter and the team must make to regain their competitive edge.
+
+Further Reading:
+• "Baseball Between the Numbers: Why Everything You Know About the Game Is Wrong" - Book (https://www.amazon.com/Baseball-Between-Numbers-Everything-About/dp/0465005470)
+• "The New York Mets: A Complete Illustrated History" - Book (https://www.amazon.com/New-York-Mets-Complete-Illustrated/dp/0760339597)
+• "The Science of Baseball: The Impact of Data Analytics on the Game" (https://www.baseballprospectus.com/news/article/analytics-impact)
+• "Inside the Empire: The True Power Behind the New York Mets" - Book (https://www.amazon.com/Inside-Empire-Behind-York-Mets/dp/1328589323)]]></description>
+      <itunes:summary><![CDATA[]]></itunes:summary>
+      <content:encoded><![CDATA[In this sobering episode of Mets Report, we dive deep into the aftermath of a devastating series sweep by the Tampa Bay Rays, culminating in a 9-0 Father's Day defeat at Citi Field. The episode dissects Griffin Canning's troubling performance, where he surrendered seven earned runs and three home runs over five innings, highlighting the growing concerns about the Mets' rotation stability. The analysis explores the team's offensive struggles against elite pitching, managing just five hits against Shane Baz and the Rays' bullpen. While maintaining perspective on the Mets' overall position above .500 and their wild card contention, the episode examines critical areas needing improvement, particularly the rotation depth beyond Senga and Peterson. Special attention is paid to the red-hot Rays, who've won 18 of their last 24 games, including standout performances from Jose Caballero. The discussion concludes with a look ahead to the upcoming Marlins series, addressing the necessary adjustments Buck Showalter and the team must make to regain their competitive edge.
+
+Further Reading:
+• "Baseball Between the Numbers: Why Everything You Know About the Game Is Wrong" - Book (https://www.amazon.com/Baseball-Between-Numbers-Everything-About/dp/0465005470)
+• "The New York Mets: A Complete Illustrated History" - Book (https://www.amazon.com/New-York-Mets-Complete-Illustrated/dp/0760339597)
+• "The Science of Baseball: The Impact of Data Analytics on the Game" (https://www.baseballprospectus.com/news/article/analytics-impact)
+• "Inside the Empire: The True Power Behind the New York Mets" - Book (https://www.amazon.com/Inside-Empire-Behind-York-Mets/dp/1328589323)]]></content:encoded>
+      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750051598/airtable_audio/recMMI96UfNIdQ61e-91f8f.mp3" 
+                 length="1289231"
+                 type="audio/mpeg"
+                 bitrate="128000"/>
+      <guid isPermaLink="false">recMMI96UfNIdQ61e</guid>
+      <pubDate>Mon, 16 Jun 2025 08:01:00 GMT</pubDate>
+      <itunes:duration>00:02:41</itunes:duration>
+      <itunes:explicit>yes</itunes:explicit>
+      <itunes:keywords>tech,updates,news</itunes:keywords>
+      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+    </item>
   </channel>
 </rss>
