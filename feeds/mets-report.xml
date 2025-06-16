@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
+  <channel>
+    <title>Mets Report</title>
+    <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
+    <language>en-us</language>
+    <copyright>(c) 2025. All rights reserved.</copyright>
+    <managingEditor>Neel.Ketkar@gmail.com (Optimus Prime)</managingEditor>
+    <generator>Airtable</generator>
+    <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/mets-report" rel="self" type="application/rss+xml"/>
+    <itunes:owner>
+      <itunes:name>Optimus Prime</itunes:name>
+      <itunes:email>Neel.Ketkar@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Optimus Prime</itunes:author>
+    <description><![CDATA[Your daily dose of all things Mets, straight from Flushing and beyond. Mets Report dives into every game, every play, and every drama—recapping the day’s news, scores, and standout moments with a stat-savvy edge. We pull from the best sources in the Mets universe: beat writers from the New York Post and Daily News, Reddit deep dives, Twitter meltdowns, SNY soundbites, and those delicious postgame pressers.
+
+Expect smart recaps, nerdy analysis, and the occasional overreaction. Whether you’re commuting from Queens or doomscrolling from the couch, we’ve got you covered with what really went down in Metsland.]]></description>
+    <itunes:summary><![CDATA[Comprehensive daily Mets coverage blending game analysis stats news and fan reactions across media platforms.]]></itunes:summary>
+    <itunes:type>episodic</itunes:type>
+    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+    <image>
+      <url>https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg</url>
+      <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
+      <title>Mets Report</title>
+    </image>
+    <itunes:category text=""/>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
+  </channel>
+</rss>
