@@ -1,43 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
-  <channel>
-    <title>TLDR</title>
-    <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
-    <language>en-us</language>
-    <copyright>(c) 2025. All rights reserved.</copyright>
-    <managingEditor>pukka.flashy5g@icloud.com (Optimus Prime)</managingEditor>
-    <generator>Airtable</generator>
-    <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/tldr" rel="self" type="application/rss+xml"/>
-    <itunes:owner>
-      <itunes:name>Optimus Prime</itunes:name>
-      <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
-    </itunes:owner>
-    <itunes:author>Optimus Prime</itunes:author>
-    <description><![CDATA[Stay ahead of the tech curve in just three minutes a day with TLDR, your essential morning briefing on all things digital. From groundbreaking AI developments to cryptocurrency rollercoasters, Silicon Valley power plays to game-changing startup moves, TLDR distills the tech world's most important stories into clear, concise updates that matter.
+    <rss version="2.0" 
+         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+         xmlns:atom="http://www.w3.org/2005/Atom"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
+    <channel>
+        <title>TLDR</title>
+        <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
+        <language>en-us</language>
+        <copyright>(c) 2025. All rights reserved.</copyright>
+        <managingEditor>pukka.flashy5g@icloud.com (Optimus Prime)</managingEditor>
+        <generator>Airtable</generator>
+        <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/tldr" rel="self" type="application/rss+xml"/>
+        <itunes:owner>
+            <itunes:name>Optimus Prime</itunes:name>
+            <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Optimus Prime</itunes:author>
+        <description><![CDATA[Stay ahead of the tech curve in just three minutes a day with TLDR, your essential morning briefing on all things digital. From groundbreaking AI developments to cryptocurrency rollercoasters, Silicon Valley power plays to game-changing startup moves, TLDR distills the tech world's most important stories into clear, concise updates that matter.
 
 Every weekday, TLDR cuts through the noise to deliver a perfectly calibrated mix of must-know news and fascinating developments, minus the technical jargon and endless analysis. Whether you're a tech industry insider or simply want to understand why your social media feed is buzzing, this podcast transforms complex tech narratives into accessible, engaging stories that keep you informed and make you sound like the smartest person in any conversation.
 
 Disclaimer: This podcast provides news and information for general educational purposes only. The content should not be considered as financial, legal, or professional advice. Views expressed are those of the hosts and guests, and do not necessarily reflect official positions of any referenced companies or organizations.]]></description>
-    <itunes:summary><![CDATA[Daily three minute tech news briefing covering AI startups crypto and Silicon Valley developments.]]></itunes:summary>
-    <itunes:type>episodic</itunes:type>
-    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    <image>
-      <url>https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png</url>
-      <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
-      <title>TLDR</title>
-    </image>
-    <itunes:category text="Technology &gt; Tech News, Business &gt; Tech Business, News &gt; Tech News"/>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
-    <item>
-      <title>WhatsApp Ads Are Here: Meta&apos;s Controversial Move</title>
-      <itunes:title>WhatsApp Ads Are Here: Meta&apos;s Controversial Move</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Meta's controversial decision to introduce advertising on WhatsApp, marking a significant shift in the platform's monetization strategy. The episode unpacks the strategic placement of these ads in the Updates tab and examines the implications for user privacy and data collection. Beyond WhatsApp, we explore Donald Trump's unexpected venture into the smartphone industry with Trump Mobile, featuring distinctive pricing that reflects his presidential legacy. The discussion then shifts to a groundbreaking partnership between Amazon Ads and Roku that promises to revolutionize Connected TV advertising, potentially reaching over 80% of US households. We also analyze Patreon's significant business model transformation, including their commission increase to 10% for new creators, and conclude with an exciting development from Threads - a new feature designed to protect users from unwanted spoilers. This comprehensive tech roundup delivers crucial insights into the evolving landscape of digital platforms, social media monetization, and the intersection of technology with user experience.
+        <itunes:summary><![CDATA[Daily three minute tech news briefing covering AI startups crypto and Silicon Valley developments.]]></itunes:summary>
+        <itunes:type>episodic</itunes:type>
+        <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+        <image>
+            <url>&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;</url>
+            <link>https://airtable.com/app8RF1bwHUrradMB/pagdckUa8gmwDiUrv/form</link>
+            <title>TLDR</title>
+        </image>
+        <itunes:category text="Technology &gt; Tech News, Business &gt; Tech Business, News &gt; Tech News"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
+            <item>
+                <title>WhatsApp Ads Are Here: Meta&apos;s Controversial Move</title>
+                <itunes:title>WhatsApp Ads Are Here: Meta&apos;s Controversial Move</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Meta's controversial decision to introduce advertising on WhatsApp, marking a significant shift in the platform's monetization strategy. The episode unpacks the strategic placement of these ads in the Updates tab and examines the implications for user privacy and data collection. Beyond WhatsApp, we explore Donald Trump's unexpected venture into the smartphone industry with Trump Mobile, featuring distinctive pricing that reflects his presidential legacy. The discussion then shifts to a groundbreaking partnership between Amazon Ads and Roku that promises to revolutionize Connected TV advertising, potentially reaching over 80% of US households. We also analyze Patreon's significant business model transformation, including their commission increase to 10% for new creators, and conclude with an exciting development from Threads - a new feature designed to protect users from unwanted spoilers. This comprehensive tech roundup delivers crucial insights into the evolving landscape of digital platforms, social media monetization, and the intersection of technology with user experience.
 
 Further Reading:
 • "WhatsApp: From Free Messaging to Monetization" (https://techcrunch.com/2025/whatsapp-monetization-strategy)
@@ -45,8 +45,8 @@ Further Reading:
 • "Platform Economics: Understanding Digital Business Models - Book" (https://amazon.com/books/platform-economics)
 • "Social Media Monetization Strategies" (https://wired.com/2025/social-media-monetization)
 • "The Evolution of Digital Advertising - Documentary" (https://primevideo.com/evolution-digital-advertising)]]></description>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <content:encoded><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Meta's controversial decision to introduce advertising on WhatsApp, marking a significant shift in the platform's monetization strategy. The episode unpacks the strategic placement of these ads in the Updates tab and examines the implications for user privacy and data collection. Beyond WhatsApp, we explore Donald Trump's unexpected venture into the smartphone industry with Trump Mobile, featuring distinctive pricing that reflects his presidential legacy. The discussion then shifts to a groundbreaking partnership between Amazon Ads and Roku that promises to revolutionize Connected TV advertising, potentially reaching over 80% of US households. We also analyze Patreon's significant business model transformation, including their commission increase to 10% for new creators, and conclude with an exciting development from Threads - a new feature designed to protect users from unwanted spoilers. This comprehensive tech roundup delivers crucial insights into the evolving landscape of digital platforms, social media monetization, and the intersection of technology with user experience.
+                <itunes:summary><![CDATA[]]></itunes:summary>
+                <content:encoded><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Meta's controversial decision to introduce advertising on WhatsApp, marking a significant shift in the platform's monetization strategy. The episode unpacks the strategic placement of these ads in the Updates tab and examines the implications for user privacy and data collection. Beyond WhatsApp, we explore Donald Trump's unexpected venture into the smartphone industry with Trump Mobile, featuring distinctive pricing that reflects his presidential legacy. The discussion then shifts to a groundbreaking partnership between Amazon Ads and Roku that promises to revolutionize Connected TV advertising, potentially reaching over 80% of US households. We also analyze Patreon's significant business model transformation, including their commission increase to 10% for new creators, and conclude with an exciting development from Threads - a new feature designed to protect users from unwanted spoilers. This comprehensive tech roundup delivers crucial insights into the evolving landscape of digital platforms, social media monetization, and the intersection of technology with user experience.
 
 Further Reading:
 • "WhatsApp: From Free Messaging to Monetization" (https://techcrunch.com/2025/whatsapp-monetization-strategy)
@@ -54,22 +54,54 @@ Further Reading:
 • "Platform Economics: Understanding Digital Business Models - Book" (https://amazon.com/books/platform-economics)
 • "Social Media Monetization Strategies" (https://wired.com/2025/social-media-monetization)
 • "The Evolution of Digital Advertising - Documentary" (https://primevideo.com/evolution-digital-advertising)]]></content:encoded>
-      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120282/airtable_audio/rec5KjGe9xEfqbnCx-44851.mp3" 
-                 length="1220923"
-                 type="audio/mpeg"
-                 bitrate="128000"/>
-      <guid isPermaLink="false">rec5KjGe9xEfqbnCx</guid>
-      <pubDate>Mon, 16 Jun 2025 08:01:00 GMT</pubDate>
-      <itunes:duration>00:02:33</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    </item>
-    <item>
-      <title>Meta&apos;s $14B AI Gamble: Silicon Valley&apos;s New Arms Race</title>
-      <itunes:title>Meta&apos;s $14B AI Gamble: Silicon Valley&apos;s New Arms Race</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description><![CDATA[In this explosive episode of TLDR (Tech Lowdown, Digital Rundown), we dive into Meta's staggering $14.3 billion investment in Scale AI, marking a pivotal moment in the tech industry's AI arms race. The episode unpacks the strategic significance of Scale AI's CEO Alexandr Wang joining Meta's superintelligence team, while simultaneously addressing Meta's concerning privacy breach in their AI chat application. The narrative shifts to explore the emerging trend of major retailers embracing cryptocurrency, with industry giants Walmart, Amazon, and Expedia considering their own stablecoin initiatives to circumvent traditional payment processing fees. Shopify's groundbreaking partnership with Coinbase and Stripe for USDC payments signals a broader shift toward digital currency adoption in e-commerce. The episode concludes with an unprecedented development in military-tech collaboration, revealing how Silicon Valley executives from Palantir, Meta, and OpenAI are joining the Army Reserve's Detachment 201, bridging the gap between military strategy and technological innovation.
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120282/airtable_audio/rec5KjGe9xEfqbnCx-44851.mp3"
+                          length="1220923"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">rec5KjGe9xEfqbnCx</guid>
+                <pubDate>Mon, 16 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:02:33</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+            <item>
+                <title>WhatsApp Breaks Its No-Ads Promise After 15 Years</title>
+                <itunes:title>WhatsApp Breaks Its No-Ads Promise After 15 Years</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this pivotal episode of TLDR (Tech Lowdown, Digital Rundown), we explore a watershed moment in digital communication as WhatsApp abandons its long-standing "no ads" policy after fifteen years. The episode delves into Meta's strategic decision to introduce advertisements in WhatsApp's Updates tab, marking a significant departure from the platform's original promise of "No ads, no games, no gimmicks." Beyond this headline-grabbing development, we examine the escalating tensions between tech giants OpenAI and Microsoft, with potential antitrust implications looming on the horizon. The episode also covers the unexpected launch of Trump Mobile, featuring a distinctive gold-plated phone and custom pricing structure, demonstrating the continued convergence of politics and technology. Finally, we explore Threads' innovative approach to content moderation with its new spoiler-prevention feature, addressing the growing concern of unwanted content exposure in social media. This episode captures a day of significant shifts in the tech landscape, from messaging platform monetization to emerging competition in the mobile carrier space.
+
+Further Reading:
+• "WhatsApp: From Principles to Profit" (https://techcrunch.com/2024/whatsapp-advertising-journey)
+• "The Business of Messaging Apps - Book" (https://amazon.com/books/business-messaging-apps)
+• "Platform Wars: Big Tech's New Battlegrounds" (https://wired.com/platform-wars-2025)
+• "Mobile Industry Disruption 2025 - Report" (https://gsma.com/mobile-industry-report-2025)
+• "Social Media Evolution: From Connection to Commerce - Book" (https://amazon.com/books/social-media-evolution)]]></description>
+                <itunes:summary><![CDATA[]]></itunes:summary>
+                <content:encoded><![CDATA[In this pivotal episode of TLDR (Tech Lowdown, Digital Rundown), we explore a watershed moment in digital communication as WhatsApp abandons its long-standing "no ads" policy after fifteen years. The episode delves into Meta's strategic decision to introduce advertisements in WhatsApp's Updates tab, marking a significant departure from the platform's original promise of "No ads, no games, no gimmicks." Beyond this headline-grabbing development, we examine the escalating tensions between tech giants OpenAI and Microsoft, with potential antitrust implications looming on the horizon. The episode also covers the unexpected launch of Trump Mobile, featuring a distinctive gold-plated phone and custom pricing structure, demonstrating the continued convergence of politics and technology. Finally, we explore Threads' innovative approach to content moderation with its new spoiler-prevention feature, addressing the growing concern of unwanted content exposure in social media. This episode captures a day of significant shifts in the tech landscape, from messaging platform monetization to emerging competition in the mobile carrier space.
+
+Further Reading:
+• "WhatsApp: From Principles to Profit" (https://techcrunch.com/2024/whatsapp-advertising-journey)
+• "The Business of Messaging Apps - Book" (https://amazon.com/books/business-messaging-apps)
+• "Platform Wars: Big Tech's New Battlegrounds" (https://wired.com/platform-wars-2025)
+• "Mobile Industry Disruption 2025 - Report" (https://gsma.com/mobile-industry-report-2025)
+• "Social Media Evolution: From Connection to Commerce - Book" (https://amazon.com/books/social-media-evolution)]]></content:encoded>
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750125687/airtable_audio/rec786xzfNYs1yKK1-a79e9.mp3"
+                          length="910769"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">rec786xzfNYs1yKK1</guid>
+                <pubDate>Tue, 17 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:01:54</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+            <item>
+                <title>Meta&apos;s $14B AI Gamble: Silicon Valley&apos;s New Arms Race</title>
+                <itunes:title>Meta&apos;s $14B AI Gamble: Silicon Valley&apos;s New Arms Race</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this explosive episode of TLDR (Tech Lowdown, Digital Rundown), we dive into Meta's staggering $14.3 billion investment in Scale AI, marking a pivotal moment in the tech industry's AI arms race. The episode unpacks the strategic significance of Scale AI's CEO Alexandr Wang joining Meta's superintelligence team, while simultaneously addressing Meta's concerning privacy breach in their AI chat application. The narrative shifts to explore the emerging trend of major retailers embracing cryptocurrency, with industry giants Walmart, Amazon, and Expedia considering their own stablecoin initiatives to circumvent traditional payment processing fees. Shopify's groundbreaking partnership with Coinbase and Stripe for USDC payments signals a broader shift toward digital currency adoption in e-commerce. The episode concludes with an unprecedented development in military-tech collaboration, revealing how Silicon Valley executives from Palantir, Meta, and OpenAI are joining the Army Reserve's Detachment 201, bridging the gap between military strategy and technological innovation.
 
 Further Reading:
 • "The Age of AI: And Our Human Future - Book" (https://amazon.com/dp/B093G9TS91)
@@ -77,8 +109,8 @@ Further Reading:
 • "Meta's $14.3B Scale AI Investment: What It Means for Tech" (https://techcrunch.com/meta-scale-ai-investment)
 • "The Military-Tech Complex: Silicon Valley's New Frontier" (https://wired.com/military-tech-partnership)
 • "Cryptocurrency Adoption in Retail: A New Era" (https://forbes.com/crypto-retail-adoption)]]></description>
-      <itunes:summary><![CDATA[OpenAI expands cloud partnerships with Google Cloud and CoreWeave, marking shift in tech alliances and computing infrastructure]]></itunes:summary>
-      <content:encoded><![CDATA[In this explosive episode of TLDR (Tech Lowdown, Digital Rundown), we dive into Meta's staggering $14.3 billion investment in Scale AI, marking a pivotal moment in the tech industry's AI arms race. The episode unpacks the strategic significance of Scale AI's CEO Alexandr Wang joining Meta's superintelligence team, while simultaneously addressing Meta's concerning privacy breach in their AI chat application. The narrative shifts to explore the emerging trend of major retailers embracing cryptocurrency, with industry giants Walmart, Amazon, and Expedia considering their own stablecoin initiatives to circumvent traditional payment processing fees. Shopify's groundbreaking partnership with Coinbase and Stripe for USDC payments signals a broader shift toward digital currency adoption in e-commerce. The episode concludes with an unprecedented development in military-tech collaboration, revealing how Silicon Valley executives from Palantir, Meta, and OpenAI are joining the Army Reserve's Detachment 201, bridging the gap between military strategy and technological innovation.
+                <itunes:summary><![CDATA[OpenAI expands cloud partnerships with Google Cloud and CoreWeave, marking shift in tech alliances and computing infrastructure]]></itunes:summary>
+                <content:encoded><![CDATA[In this explosive episode of TLDR (Tech Lowdown, Digital Rundown), we dive into Meta's staggering $14.3 billion investment in Scale AI, marking a pivotal moment in the tech industry's AI arms race. The episode unpacks the strategic significance of Scale AI's CEO Alexandr Wang joining Meta's superintelligence team, while simultaneously addressing Meta's concerning privacy breach in their AI chat application. The narrative shifts to explore the emerging trend of major retailers embracing cryptocurrency, with industry giants Walmart, Amazon, and Expedia considering their own stablecoin initiatives to circumvent traditional payment processing fees. Shopify's groundbreaking partnership with Coinbase and Stripe for USDC payments signals a broader shift toward digital currency adoption in e-commerce. The episode concludes with an unprecedented development in military-tech collaboration, revealing how Silicon Valley executives from Palantir, Meta, and OpenAI are joining the Army Reserve's Detachment 201, bridging the gap between military strategy and technological innovation.
 
 Further Reading:
 • "The Age of AI: And Our Human Future - Book" (https://amazon.com/dp/B093G9TS91)
@@ -86,22 +118,22 @@ Further Reading:
 • "Meta's $14.3B Scale AI Investment: What It Means for Tech" (https://techcrunch.com/meta-scale-ai-investment)
 • "The Military-Tech Complex: Silicon Valley's New Frontier" (https://wired.com/military-tech-partnership)
 • "Cryptocurrency Adoption in Retail: A New Era" (https://forbes.com/crypto-retail-adoption)]]></content:encoded>
-      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120215/airtable_audio/recTCx6OizA7xcN4g-342d5.mp3" 
-                 length="1117538"
-                 type="audio/mpeg"
-                 bitrate="128000"/>
-      <guid isPermaLink="false">recTCx6OizA7xcN4g</guid>
-      <pubDate>Fri, 13 Jun 2025 08:01:00 GMT</pubDate>
-      <itunes:duration>00:02:20</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    </item>
-    <item>
-      <title>Amazon&apos;s $20B AI Gamble: The Next Silicon Valley</title>
-      <itunes:title>Amazon&apos;s $20B AI Gamble: The Next Silicon Valley</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into Amazon's groundbreaking $20 billion investment in Pennsylvania's AI infrastructure, marking the largest private sector investment in the state's history. The episode unpacks how this massive project goes beyond mere data centers, encompassing a comprehensive AI ecosystem complete with workforce development initiatives and community support programs. We explore the strategic significance of Amazon's move in positioning America at the forefront of artificial intelligence innovation, while creating over 1,200 high-skilled jobs. The discussion then shifts to the evolving landscape of digital assets and cryptocurrency, examining the intriguing contrast between Apple's recent stock performance and Bitcoin's remarkable growth trajectory. The episode also highlights significant developments in the blockchain space, including Franklin Templeton's venture into tokenized assets and Ripple's $5 million commitment to cryptocurrency research in Asia. This comprehensive analysis showcases how traditional tech giants and financial institutions are rapidly adapting to and investing in emerging technologies, painting a vivid picture of technology's accelerating evolution.
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120215/airtable_audio/recTCx6OizA7xcN4g-342d5.mp3"
+                          length="1117538"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">recTCx6OizA7xcN4g</guid>
+                <pubDate>Fri, 13 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:02:20</itunes:duration>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+            <item>
+                <title>Amazon&apos;s $20B AI Gamble: The Next Silicon Valley</title>
+                <itunes:title>Amazon&apos;s $20B AI Gamble: The Next Silicon Valley</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into Amazon's groundbreaking $20 billion investment in Pennsylvania's AI infrastructure, marking the largest private sector investment in the state's history. The episode unpacks how this massive project goes beyond mere data centers, encompassing a comprehensive AI ecosystem complete with workforce development initiatives and community support programs. We explore the strategic significance of Amazon's move in positioning America at the forefront of artificial intelligence innovation, while creating over 1,200 high-skilled jobs. The discussion then shifts to the evolving landscape of digital assets and cryptocurrency, examining the intriguing contrast between Apple's recent stock performance and Bitcoin's remarkable growth trajectory. The episode also highlights significant developments in the blockchain space, including Franklin Templeton's venture into tokenized assets and Ripple's $5 million commitment to cryptocurrency research in Asia. This comprehensive analysis showcases how traditional tech giants and financial institutions are rapidly adapting to and investing in emerging technologies, painting a vivid picture of technology's accelerating evolution.
 
 Further Reading:
 • 'The Age of AI: And Our Human Future - Book' (https://amazon.com/dp/B093G9TS91)
@@ -109,8 +141,8 @@ Further Reading:
 • 'Blockchain Revolution - Book' (https://amazon.com/dp/1101980133)
 • 'The Future of Money: How Digital Payments Are Changing Our World - Documentary' (https://primevideo.com/future-of-money)
 • 'The Rise of Corporate Cryptocurrency Adoption' (https://www.forbes.com/digital-assets/cryptocurrency-adoption)]]></description>
-      <itunes:summary><![CDATA[Tech news: Chinese chip smuggling, Taiwan export controls, AI healthcare gaps, Apple's LRM debate, Waymo protests, influencer market growth]]></itunes:summary>
-      <content:encoded><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into Amazon's groundbreaking $20 billion investment in Pennsylvania's AI infrastructure, marking the largest private sector investment in the state's history. The episode unpacks how this massive project goes beyond mere data centers, encompassing a comprehensive AI ecosystem complete with workforce development initiatives and community support programs. We explore the strategic significance of Amazon's move in positioning America at the forefront of artificial intelligence innovation, while creating over 1,200 high-skilled jobs. The discussion then shifts to the evolving landscape of digital assets and cryptocurrency, examining the intriguing contrast between Apple's recent stock performance and Bitcoin's remarkable growth trajectory. The episode also highlights significant developments in the blockchain space, including Franklin Templeton's venture into tokenized assets and Ripple's $5 million commitment to cryptocurrency research in Asia. This comprehensive analysis showcases how traditional tech giants and financial institutions are rapidly adapting to and investing in emerging technologies, painting a vivid picture of technology's accelerating evolution.
+                <itunes:summary><![CDATA[Tech news: Chinese chip smuggling, Taiwan export controls, AI healthcare gaps, Apple's LRM debate, Waymo protests, influencer market growth]]></itunes:summary>
+                <content:encoded><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into Amazon's groundbreaking $20 billion investment in Pennsylvania's AI infrastructure, marking the largest private sector investment in the state's history. The episode unpacks how this massive project goes beyond mere data centers, encompassing a comprehensive AI ecosystem complete with workforce development initiatives and community support programs. We explore the strategic significance of Amazon's move in positioning America at the forefront of artificial intelligence innovation, while creating over 1,200 high-skilled jobs. The discussion then shifts to the evolving landscape of digital assets and cryptocurrency, examining the intriguing contrast between Apple's recent stock performance and Bitcoin's remarkable growth trajectory. The episode also highlights significant developments in the blockchain space, including Franklin Templeton's venture into tokenized assets and Ripple's $5 million commitment to cryptocurrency research in Asia. This comprehensive analysis showcases how traditional tech giants and financial institutions are rapidly adapting to and investing in emerging technologies, painting a vivid picture of technology's accelerating evolution.
 
 Further Reading:
 • 'The Age of AI: And Our Human Future - Book' (https://amazon.com/dp/B093G9TS91)
@@ -118,22 +150,22 @@ Further Reading:
 • 'Blockchain Revolution - Book' (https://amazon.com/dp/1101980133)
 • 'The Future of Money: How Digital Payments Are Changing Our World - Documentary' (https://primevideo.com/future-of-money)
 • 'The Rise of Corporate Cryptocurrency Adoption' (https://www.forbes.com/digital-assets/cryptocurrency-adoption)]]></content:encoded>
-      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120212/airtable_audio/reccUlJXAOQLstN0W-338db.mp3" 
-                 length="1202462"
-                 type="audio/mpeg"
-                 bitrate="128000"/>
-      <guid isPermaLink="false">reccUlJXAOQLstN0W</guid>
-      <pubDate>Fri, 13 Jun 2025 08:01:00 GMT</pubDate>
-      <itunes:duration>00:02:30</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    </item>
-    <item>
-      <title>AI&apos;s Medical Diagnosis Paradox: Brilliant Alone, Stumbles with Humans</title>
-      <itunes:title>AI&apos;s Medical Diagnosis Paradox: Brilliant Alone, Stumbles with Humans</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into a fascinating paradox in AI-powered medical diagnostics that's reshaping our understanding of human-AI interaction in healthcare. Oxford University's groundbreaking study reveals an intriguing disparity: while AI achieves an impressive 95% accuracy in direct medical diagnosis, this rate dramatically drops to 34.5% when humans act as intermediaries. The episode explores this crucial finding's implications for the future of healthcare delivery and AI integration. We also examine New York State's pioneering move toward comprehensive AI regulation, with a landmark bill requiring frontier AI companies to implement robust safety measures. The narrative takes an unexpected turn to Asia, where Chinese companies are cleverly circumventing US chip restrictions through an innovative data transport solution in Malaysia. The episode rounds out with Amazon's strategic $13 billion investment in Australian data centers and Google's experimental Audio Overviews feature, painting a comprehensive picture of the rapidly evolving global AI landscape and its far-reaching implications for healthcare, governance, and everyday technology use.
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120212/airtable_audio/reccUlJXAOQLstN0W-338db.mp3"
+                          length="1202462"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">reccUlJXAOQLstN0W</guid>
+                <pubDate>Fri, 13 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:02:30</itunes:duration>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+            <item>
+                <title>AI&apos;s Medical Diagnosis Paradox: Brilliant Alone, Stumbles with Humans</title>
+                <itunes:title>AI&apos;s Medical Diagnosis Paradox: Brilliant Alone, Stumbles with Humans</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into a fascinating paradox in AI-powered medical diagnostics that's reshaping our understanding of human-AI interaction in healthcare. Oxford University's groundbreaking study reveals an intriguing disparity: while AI achieves an impressive 95% accuracy in direct medical diagnosis, this rate dramatically drops to 34.5% when humans act as intermediaries. The episode explores this crucial finding's implications for the future of healthcare delivery and AI integration. We also examine New York State's pioneering move toward comprehensive AI regulation, with a landmark bill requiring frontier AI companies to implement robust safety measures. The narrative takes an unexpected turn to Asia, where Chinese companies are cleverly circumventing US chip restrictions through an innovative data transport solution in Malaysia. The episode rounds out with Amazon's strategic $13 billion investment in Australian data centers and Google's experimental Audio Overviews feature, painting a comprehensive picture of the rapidly evolving global AI landscape and its far-reaching implications for healthcare, governance, and everyday technology use.
 
 Further Reading:
 • 'The AI Revolution in Medicine: How Artificial Intelligence Is Changing Healthcare - Book' (https://amazon.com/dp/1119631114)
@@ -141,8 +173,8 @@ Further Reading:
 • 'The Future of AI in Healthcare: Balancing Promise and Peril' (https://www.nature.com/articles/d41586-023-00023-2)
 • 'Digital Silk Road: China's Quest for Tech Supremacy - Book' (https://amazon.com/dp/1509549145)
 • 'Artificial Intelligence in Healthcare: A Comprehensive Guide - Documentary' (https://primevideo.com/ai-healthcare-documentary)]]></description>
-      <itunes:summary><![CDATA[Chinese engineers bypass US chip controls, Waymo faces protests, Apple research reveals AI limitations, Chess.com rises, AI enters emergency services]]></itunes:summary>
-      <content:encoded><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into a fascinating paradox in AI-powered medical diagnostics that's reshaping our understanding of human-AI interaction in healthcare. Oxford University's groundbreaking study reveals an intriguing disparity: while AI achieves an impressive 95% accuracy in direct medical diagnosis, this rate dramatically drops to 34.5% when humans act as intermediaries. The episode explores this crucial finding's implications for the future of healthcare delivery and AI integration. We also examine New York State's pioneering move toward comprehensive AI regulation, with a landmark bill requiring frontier AI companies to implement robust safety measures. The narrative takes an unexpected turn to Asia, where Chinese companies are cleverly circumventing US chip restrictions through an innovative data transport solution in Malaysia. The episode rounds out with Amazon's strategic $13 billion investment in Australian data centers and Google's experimental Audio Overviews feature, painting a comprehensive picture of the rapidly evolving global AI landscape and its far-reaching implications for healthcare, governance, and everyday technology use.
+                <itunes:summary><![CDATA[Chinese engineers bypass US chip controls, Waymo faces protests, Apple research reveals AI limitations, Chess.com rises, AI enters emergency services]]></itunes:summary>
+                <content:encoded><![CDATA[In this eye-opening episode of TLDR - Tech Lowdown, Digital Rundown, we dive into a fascinating paradox in AI-powered medical diagnostics that's reshaping our understanding of human-AI interaction in healthcare. Oxford University's groundbreaking study reveals an intriguing disparity: while AI achieves an impressive 95% accuracy in direct medical diagnosis, this rate dramatically drops to 34.5% when humans act as intermediaries. The episode explores this crucial finding's implications for the future of healthcare delivery and AI integration. We also examine New York State's pioneering move toward comprehensive AI regulation, with a landmark bill requiring frontier AI companies to implement robust safety measures. The narrative takes an unexpected turn to Asia, where Chinese companies are cleverly circumventing US chip restrictions through an innovative data transport solution in Malaysia. The episode rounds out with Amazon's strategic $13 billion investment in Australian data centers and Google's experimental Audio Overviews feature, painting a comprehensive picture of the rapidly evolving global AI landscape and its far-reaching implications for healthcare, governance, and everyday technology use.
 
 Further Reading:
 • 'The AI Revolution in Medicine: How Artificial Intelligence Is Changing Healthcare - Book' (https://amazon.com/dp/1119631114)
@@ -150,22 +182,22 @@ Further Reading:
 • 'The Future of AI in Healthcare: Balancing Promise and Peril' (https://www.nature.com/articles/d41586-023-00023-2)
 • 'Digital Silk Road: China's Quest for Tech Supremacy - Book' (https://amazon.com/dp/1509549145)
 • 'Artificial Intelligence in Healthcare: A Comprehensive Guide - Documentary' (https://primevideo.com/ai-healthcare-documentary)]]></content:encoded>
-      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120215/airtable_audio/receBwoCDKgONuVxS-346fd.mp3" 
-                 length="1310154"
-                 type="audio/mpeg"
-                 bitrate="128000"/>
-      <guid isPermaLink="false">receBwoCDKgONuVxS</guid>
-      <pubDate>Sun, 15 Jun 2025 08:01:00 GMT</pubDate>
-      <itunes:duration>00:02:44</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    </item>
-    <item>
-      <title>Tech Under Fire: Middle East Crisis Reshapes Global Supply Chains</title>
-      <itunes:title>Tech Under Fire: Middle East Crisis Reshapes Global Supply Chains</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description><![CDATA[In this critical episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into how escalating Middle East tensions are reshaping the global technology landscape. The suspension of Intel's Haifa facility operations, representing 20% of their advanced processor production, signals a major disruption in the semiconductor supply chain. As Iranian cyber units launch unprecedented attacks on Israeli tech infrastructure, leading cybersecurity firms like Check Point and Cybereat are mounting a digital defense against over a thousand breach attempts. The conflict's ripple effects extend to the Paris Air Show, where Israeli tech companies' notable absence in the drone and autonomous systems sector highlights the broader industry impact. The episode explores how this crisis is catalyzing a significant shift in global tech manufacturing, with industry giants like Samsung and TSMC accelerating their plans to relocate production to more stable regions. This pivotal moment in tech history demonstrates how geopolitical stability, rather than just cost efficiency, is becoming the primary driver of strategic decisions in the technology sector.
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120215/airtable_audio/receBwoCDKgONuVxS-346fd.mp3"
+                          length="1310154"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">receBwoCDKgONuVxS</guid>
+                <pubDate>Sun, 15 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:02:44</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+            <item>
+                <title>Tech Under Fire: Middle East Crisis Reshapes Global Supply Chains</title>
+                <itunes:title>Tech Under Fire: Middle East Crisis Reshapes Global Supply Chains</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this critical episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into how escalating Middle East tensions are reshaping the global technology landscape. The suspension of Intel's Haifa facility operations, representing 20% of their advanced processor production, signals a major disruption in the semiconductor supply chain. As Iranian cyber units launch unprecedented attacks on Israeli tech infrastructure, leading cybersecurity firms like Check Point and Cybereat are mounting a digital defense against over a thousand breach attempts. The conflict's ripple effects extend to the Paris Air Show, where Israeli tech companies' notable absence in the drone and autonomous systems sector highlights the broader industry impact. The episode explores how this crisis is catalyzing a significant shift in global tech manufacturing, with industry giants like Samsung and TSMC accelerating their plans to relocate production to more stable regions. This pivotal moment in tech history demonstrates how geopolitical stability, rather than just cost efficiency, is becoming the primary driver of strategic decisions in the technology sector.
 
 Further Reading:
 • 'Chip War: The Fight for the World's Most Critical Technology - Book' (https://amazon.com/dp/1982172002)
@@ -173,8 +205,8 @@ Further Reading:
 • 'Understanding the Global Semiconductor Crisis' (https://www.semiconductors.org/global-chip-shortage/)
 • 'Cybersecurity in Times of Conflict' (https://www.cyberscoop.com/middle-east-cyber-conflict-analysis)
 • 'The Reshaping of Global Tech Supply Chains' (https://www.wired.com/story/global-tech-supply-chains)]]></description>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <content:encoded><![CDATA[In this critical episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into how escalating Middle East tensions are reshaping the global technology landscape. The suspension of Intel's Haifa facility operations, representing 20% of their advanced processor production, signals a major disruption in the semiconductor supply chain. As Iranian cyber units launch unprecedented attacks on Israeli tech infrastructure, leading cybersecurity firms like Check Point and Cybereat are mounting a digital defense against over a thousand breach attempts. The conflict's ripple effects extend to the Paris Air Show, where Israeli tech companies' notable absence in the drone and autonomous systems sector highlights the broader industry impact. The episode explores how this crisis is catalyzing a significant shift in global tech manufacturing, with industry giants like Samsung and TSMC accelerating their plans to relocate production to more stable regions. This pivotal moment in tech history demonstrates how geopolitical stability, rather than just cost efficiency, is becoming the primary driver of strategic decisions in the technology sector.
+                <itunes:summary><![CDATA[]]></itunes:summary>
+                <content:encoded><![CDATA[In this critical episode of TLDR - Tech Lowdown, Digital Rundown, we dive deep into how escalating Middle East tensions are reshaping the global technology landscape. The suspension of Intel's Haifa facility operations, representing 20% of their advanced processor production, signals a major disruption in the semiconductor supply chain. As Iranian cyber units launch unprecedented attacks on Israeli tech infrastructure, leading cybersecurity firms like Check Point and Cybereat are mounting a digital defense against over a thousand breach attempts. The conflict's ripple effects extend to the Paris Air Show, where Israeli tech companies' notable absence in the drone and autonomous systems sector highlights the broader industry impact. The episode explores how this crisis is catalyzing a significant shift in global tech manufacturing, with industry giants like Samsung and TSMC accelerating their plans to relocate production to more stable regions. This pivotal moment in tech history demonstrates how geopolitical stability, rather than just cost efficiency, is becoming the primary driver of strategic decisions in the technology sector.
 
 Further Reading:
 • 'Chip War: The Fight for the World's Most Critical Technology - Book' (https://amazon.com/dp/1982172002)
@@ -182,22 +214,22 @@ Further Reading:
 • 'Understanding the Global Semiconductor Crisis' (https://www.semiconductors.org/global-chip-shortage/)
 • 'Cybersecurity in Times of Conflict' (https://www.cyberscoop.com/middle-east-cyber-conflict-analysis)
 • 'The Reshaping of Global Tech Supply Chains' (https://www.wired.com/story/global-tech-supply-chains)]]></content:encoded>
-      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120240/airtable_audio/rechYxluajfHXOvsR-3a7db.mp3" 
-                 length="1455385"
-                 type="audio/mpeg"
-                 bitrate="128000"/>
-      <guid isPermaLink="false">rechYxluajfHXOvsR</guid>
-      <pubDate>Mon, 16 Jun 2025 08:01:00 GMT</pubDate>
-      <itunes:duration>00:03:02</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    </item>
-    <item>
-      <title>Breaking Point: Air India Crash, Global Tensions, and Hollywood Justice</title>
-      <itunes:title>Breaking Point: Air India Crash, Global Tensions, and Hollywood Justice</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description><![CDATA[In this gripping episode of TLDR (Tech Lowdown, Digital Rundown), we navigate through multiple high-stakes global events that have shaped mid-June 2025. At the forefront is the devastating Air India Flight 372 disaster, marking India's worst aviation incident in decades, with 241 fatalities and one survivor. The episode delves into the ongoing investigation and the search for crucial black box data. The narrative shifts to escalating Middle Eastern tensions, highlighting the U.S. embassy evacuation in Iraq amid concerns of potential Israeli military action against Iran. Domestically, the episode covers widespread protests against ICE raids across 35 American cities, with particular focus on Los Angeles where National Guard deployment and curfews underscore the situation's severity. The episode concludes with a significant development in the entertainment industry: Harvey Weinstein's latest conviction in his Manhattan sexual assault retrial, representing another pivotal moment in the #MeToo movement's ongoing impact on Hollywood's power structures. This comprehensive news roundup exemplifies TLDR's commitment to delivering concise, impactful coverage of global events.
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120240/airtable_audio/rechYxluajfHXOvsR-3a7db.mp3"
+                          length="1455385"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">rechYxluajfHXOvsR</guid>
+                <pubDate>Mon, 16 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:03:02</itunes:duration>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+            <item>
+                <title>Breaking Point: Air India Crash, Global Tensions, and Hollywood Justice</title>
+                <itunes:title>Breaking Point: Air India Crash, Global Tensions, and Hollywood Justice</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this gripping episode of TLDR (Tech Lowdown, Digital Rundown), we navigate through multiple high-stakes global events that have shaped mid-June 2025. At the forefront is the devastating Air India Flight 372 disaster, marking India's worst aviation incident in decades, with 241 fatalities and one survivor. The episode delves into the ongoing investigation and the search for crucial black box data. The narrative shifts to escalating Middle Eastern tensions, highlighting the U.S. embassy evacuation in Iraq amid concerns of potential Israeli military action against Iran. Domestically, the episode covers widespread protests against ICE raids across 35 American cities, with particular focus on Los Angeles where National Guard deployment and curfews underscore the situation's severity. The episode concludes with a significant development in the entertainment industry: Harvey Weinstein's latest conviction in his Manhattan sexual assault retrial, representing another pivotal moment in the #MeToo movement's ongoing impact on Hollywood's power structures. This comprehensive news roundup exemplifies TLDR's commitment to delivering concise, impactful coverage of global events.
 
 Further Reading:
 • "The Rise and Fall of Harvey Weinstein - Book" (https://amazon.com/books/rise-fall-harvey-weinstein)
@@ -205,8 +237,8 @@ Further Reading:
 • "Understanding the Iran-Israel Conflict 2025" (https://foreignpolicy.com/iran-israel-conflict-2025)
 • "Immigration Enforcement and Civil Rights in America" (https://brookings.edu/immigration-enforcement-civil-rights)
 • "The Impact of #MeToo: Five Years Later - Book" (https://amazon.com/books/impact-metoo-five-years-later)]]></description>
-      <itunes:summary><![CDATA[OpenAI expands cloud partnerships with Google Cloud and CoreWeave, marking shift in tech alliances and computing infrastructure]]></itunes:summary>
-      <content:encoded><![CDATA[In this gripping episode of TLDR (Tech Lowdown, Digital Rundown), we navigate through multiple high-stakes global events that have shaped mid-June 2025. At the forefront is the devastating Air India Flight 372 disaster, marking India's worst aviation incident in decades, with 241 fatalities and one survivor. The episode delves into the ongoing investigation and the search for crucial black box data. The narrative shifts to escalating Middle Eastern tensions, highlighting the U.S. embassy evacuation in Iraq amid concerns of potential Israeli military action against Iran. Domestically, the episode covers widespread protests against ICE raids across 35 American cities, with particular focus on Los Angeles where National Guard deployment and curfews underscore the situation's severity. The episode concludes with a significant development in the entertainment industry: Harvey Weinstein's latest conviction in his Manhattan sexual assault retrial, representing another pivotal moment in the #MeToo movement's ongoing impact on Hollywood's power structures. This comprehensive news roundup exemplifies TLDR's commitment to delivering concise, impactful coverage of global events.
+                <itunes:summary><![CDATA[OpenAI expands cloud partnerships with Google Cloud and CoreWeave, marking shift in tech alliances and computing infrastructure]]></itunes:summary>
+                <content:encoded><![CDATA[In this gripping episode of TLDR (Tech Lowdown, Digital Rundown), we navigate through multiple high-stakes global events that have shaped mid-June 2025. At the forefront is the devastating Air India Flight 372 disaster, marking India's worst aviation incident in decades, with 241 fatalities and one survivor. The episode delves into the ongoing investigation and the search for crucial black box data. The narrative shifts to escalating Middle Eastern tensions, highlighting the U.S. embassy evacuation in Iraq amid concerns of potential Israeli military action against Iran. Domestically, the episode covers widespread protests against ICE raids across 35 American cities, with particular focus on Los Angeles where National Guard deployment and curfews underscore the situation's severity. The episode concludes with a significant development in the entertainment industry: Harvey Weinstein's latest conviction in his Manhattan sexual assault retrial, representing another pivotal moment in the #MeToo movement's ongoing impact on Hollywood's power structures. This comprehensive news roundup exemplifies TLDR's commitment to delivering concise, impactful coverage of global events.
 
 Further Reading:
 • "The Rise and Fall of Harvey Weinstein - Book" (https://amazon.com/books/rise-fall-harvey-weinstein)
@@ -214,22 +246,22 @@ Further Reading:
 • "Understanding the Iran-Israel Conflict 2025" (https://foreignpolicy.com/iran-israel-conflict-2025)
 • "Immigration Enforcement and Civil Rights in America" (https://brookings.edu/immigration-enforcement-civil-rights)
 • "The Impact of #MeToo: Five Years Later - Book" (https://amazon.com/books/impact-metoo-five-years-later)]]></content:encoded>
-      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120213/airtable_audio/recn9E2Ptdlu7k0fe-33cff.mp3" 
-                 length="994462"
-                 type="audio/mpeg"
-                 bitrate="128000"/>
-      <guid isPermaLink="false">recn9E2Ptdlu7k0fe</guid>
-      <pubDate>Thu, 12 Jun 2025 08:01:00 GMT</pubDate>
-      <itunes:duration>00:02:04</itunes:duration>
-      <itunes:explicit>yes</itunes:explicit>
-      <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    </item>
-    <item>
-      <title>Apple&apos;s AI Stumble: Wall Street&apos;s Cold Shoulder</title>
-      <itunes:title>Apple&apos;s AI Stumble: Wall Street&apos;s Cold Shoulder</itunes:title>
-      <itunes:episodeType>full</itunes:episodeType>
-      <description><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Apple's underwhelming AI announcements at WWDC 2025, marking a significant setback in the tech giant's artificial intelligence ambitions. The episode unpacks the market's harsh reaction to Apple's latest software updates and AI features, which triggered a 1.5% stock decline and contributed to the company's concerning 20.8% year-to-date drop. As the worst performer among the Magnificent Seven tech stocks, this development signals potential shifts in the competitive landscape of AI technology. The analysis extends beyond Silicon Valley to explore international tech dynamics, including significant developments in the UK's tech sector and Taiwan's strategic move to align with U.S. trade policies regarding China's AI industry. This comprehensive breakdown offers listeners crucial insights into the global tech ecosystem's evolving dynamics and the increasing complexity of international AI competition.
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120213/airtable_audio/recn9E2Ptdlu7k0fe-33cff.mp3"
+                          length="994462"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">recn9E2Ptdlu7k0fe</guid>
+                <pubDate>Thu, 12 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:02:04</itunes:duration>
+                <itunes:explicit>yes</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+            <item>
+                <title>Apple&apos;s AI Stumble: Wall Street&apos;s Cold Shoulder</title>
+                <itunes:title>Apple&apos;s AI Stumble: Wall Street&apos;s Cold Shoulder</itunes:title>
+                <itunes:episodeType>full</itunes:episodeType>
+                <description><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Apple's underwhelming AI announcements at WWDC 2025, marking a significant setback in the tech giant's artificial intelligence ambitions. The episode unpacks the market's harsh reaction to Apple's latest software updates and AI features, which triggered a 1.5% stock decline and contributed to the company's concerning 20.8% year-to-date drop. As the worst performer among the Magnificent Seven tech stocks, this development signals potential shifts in the competitive landscape of AI technology. The analysis extends beyond Silicon Valley to explore international tech dynamics, including significant developments in the UK's tech sector and Taiwan's strategic move to align with U.S. trade policies regarding China's AI industry. This comprehensive breakdown offers listeners crucial insights into the global tech ecosystem's evolving dynamics and the increasing complexity of international AI competition.
 
 Further Reading:
 • 'The Age of AI: And Our Human Future - Book' (https://amazon.com/dp/B093G9TS91)
@@ -237,8 +269,8 @@ Further Reading:
 • 'The AI Race: How the US and China Are Running for Supremacy - Documentary' (https://primevideo.com/ai-race-documentary)
 • 'Taiwan Semiconductor: Geopolitics of Chips' (https://www.foreignaffairs.com/articles/taiwan/2021-02-16/semiconductor-dependency)
 • 'Big Tech and the AI Arms Race - Book' (https://amazon.com/dp/B09NXXF5YZ)]]></description>
-      <itunes:summary><![CDATA[]]></itunes:summary>
-      <content:encoded><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Apple's underwhelming AI announcements at WWDC 2025, marking a significant setback in the tech giant's artificial intelligence ambitions. The episode unpacks the market's harsh reaction to Apple's latest software updates and AI features, which triggered a 1.5% stock decline and contributed to the company's concerning 20.8% year-to-date drop. As the worst performer among the Magnificent Seven tech stocks, this development signals potential shifts in the competitive landscape of AI technology. The analysis extends beyond Silicon Valley to explore international tech dynamics, including significant developments in the UK's tech sector and Taiwan's strategic move to align with U.S. trade policies regarding China's AI industry. This comprehensive breakdown offers listeners crucial insights into the global tech ecosystem's evolving dynamics and the increasing complexity of international AI competition.
+                <itunes:summary><![CDATA[]]></itunes:summary>
+                <content:encoded><![CDATA[In this pivotal episode of TLDR - Tech Lowdown, Digital Rundown, we dive into Apple's underwhelming AI announcements at WWDC 2025, marking a significant setback in the tech giant's artificial intelligence ambitions. The episode unpacks the market's harsh reaction to Apple's latest software updates and AI features, which triggered a 1.5% stock decline and contributed to the company's concerning 20.8% year-to-date drop. As the worst performer among the Magnificent Seven tech stocks, this development signals potential shifts in the competitive landscape of AI technology. The analysis extends beyond Silicon Valley to explore international tech dynamics, including significant developments in the UK's tech sector and Taiwan's strategic move to align with U.S. trade policies regarding China's AI industry. This comprehensive breakdown offers listeners crucial insights into the global tech ecosystem's evolving dynamics and the increasing complexity of international AI competition.
 
 Further Reading:
 • 'The Age of AI: And Our Human Future - Book' (https://amazon.com/dp/B093G9TS91)
@@ -246,16 +278,16 @@ Further Reading:
 • 'The AI Race: How the US and China Are Running for Supremacy - Documentary' (https://primevideo.com/ai-race-documentary)
 • 'Taiwan Semiconductor: Geopolitics of Chips' (https://www.foreignaffairs.com/articles/taiwan/2021-02-16/semiconductor-dependency)
 • 'Big Tech and the AI Arms Race - Book' (https://amazon.com/dp/B09NXXF5YZ)]]></content:encoded>
-      <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120224/airtable_audio/recvymWDmPcA7I8qz-36c9e.mp3" 
-                 length="702154"
-                 type="audio/mpeg"
-                 bitrate="128000"/>
-      <guid isPermaLink="false">recvymWDmPcA7I8qz</guid>
-      <pubDate>Sun, 15 Jun 2025 08:01:00 GMT</pubDate>
-      <itunes:duration>00:01:28</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:keywords>tech,updates,news</itunes:keywords>
-      <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1749955134/airtable_audio/recKPYPQwyJ7deMOy-20c32.png"/>
-    </item>
-  </channel>
+                <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750120224/airtable_audio/recvymWDmPcA7I8qz-36c9e.mp3"
+                          length="702154"
+                          type="audio/mpeg"
+                          bitrate="128000"/>
+                <guid isPermaLink="false">recvymWDmPcA7I8qz</guid>
+                <pubDate>Sun, 15 Jun 2025 08:01:00 GMT</pubDate>
+                <itunes:duration>00:01:28</itunes:duration>
+                <itunes:explicit>no</itunes:explicit>
+                <itunes:keywords>tech,updates,news</itunes:keywords>
+                <itunes:image href="&quot;ChatGPT Image Jun 14, 2025, 06_20_55 PM.png (https://dl.airtable.com/.directUploadAttachment/d65df9ceea16fdff3da87b0ef65ca107/cc50c2bb/ChatGPTImageJun14202506_20_55PM.png)&quot;"/>
+            </item>
+    </channel>
 </rss>
