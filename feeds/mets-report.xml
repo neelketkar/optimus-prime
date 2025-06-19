@@ -1,29 +1,139 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
-  <channel>
-    <title>Mets Report</title>
-    <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
-    <language>en-us</language>
-    <itunes:author>Optimus Prime</itunes:author>
-    <itunes:summary>Daily podcast delivering comprehensive New York Mets coverage through game analysis insider updates and fan perspectives.</itunes:summary>
-    <description>Step into the heart of Queens with Mets Report, your essential daily companion for everything New York Mets. From crucial game recaps to insider analysis, this podcast delivers comprehensive coverage of the orange and blue, synthesizing perspectives from trusted beat writers, social media buzz, and official team communications. Each episode breaks down the latest developments, diving deep into player performances, strategic decisions, and the stories that shape the team's journey.
+    <rss version="2.0" 
+         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+         xmlns:atom="http://www.w3.org/2005/Atom"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
+    <channel>
+        <title>Mets Report</title>
+        <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
+        <language>en-us</language>
+        <copyright>(c) 2025. All rights reserved.</copyright>
+        <managingEditor>Optimus Prime (Neel.Ketkar@gmail.com)</managingEditor>
+        <generator>Airtable</generator>
+        <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/mets-report" rel="self" type="application/rss+xml"/>
+        <itunes:owner>
+            <itunes:name>Optimus Prime</itunes:name>
+            <itunes:email>Neel.Ketkar@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Optimus Prime</itunes:author>
+        <description><![CDATA[Step into the heart of Queens with Mets Report, your essential daily companion for everything New York Mets. From crucial game recaps to insider analysis, this podcast delivers comprehensive coverage of the orange and blue, synthesizing perspectives from trusted beat writers, social media buzz, and official team communications. Each episode breaks down the latest developments, diving deep into player performances, strategic decisions, and the stories that shape the team&apos;s journey.
 
-Whether you're dissecting last night's extra-inning thriller or exploring the implications of the latest roster move, Mets Report combines statistical insight with passionate fandom. Host commentary weaves together multiple sources - from New York Post headlines to Reddit theories, Twitter trends to SNY highlights - creating a complete picture of the Mets' universe that goes beyond basic box scores.
+Whether you&apos;re dissecting last night&apos;s extra-inning thriller or exploring the implications of the latest roster move, Mets Report combines statistical insight with passionate fandom. Host commentary weaves together multiple sources - from New York Post headlines to Reddit theories, Twitter trends to SNY highlights - creating a complete picture of the Mets&apos; universe that goes beyond basic box scores.
 
-Disclaimer: This podcast is independently produced and is not affiliated with the New York Mets, Major League Baseball, or any of their partners. All statistics and information are gathered from publicly available sources.</description>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>Optimus Prime</itunes:name>
-      <itunes:email>Neel.Ketkar@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg" />
-    <itunes:category text="Sports > Baseball, News > Sports News, Sports > Sports Commentary" />
-    <copyright>(c) 2025. All rights reserved.</copyright>
-    <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/mets-report.xml" rel="self" type="application/rss+xml"/>
-    <generator>Airtable</generator>
-  </channel>
+Disclaimer: This podcast is independently produced and is not affiliated with the New York Mets, Major League Baseball, or any of their partners. All statistics and information are gathered from publicly available sources.]]></description>
+        <itunes:summary><![CDATA[Daily podcast delivering comprehensive New York Mets coverage through game analysis insider updates and fan perspectives.]]></itunes:summary>
+        <itunes:type>episodic</itunes:type>
+        <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+        <image>
+            <url>https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg</url>
+            <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
+            <title>Mets Report</title>
+        </image>
+        <itunes:category text="Sports &gt; Baseball, News &gt; Sports News, Sports &gt; Sports Commentary"/>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
+                <item>
+                    <title>Father&apos;s Day Frustration: Rays Silence Mets in Queens</title>
+                    <itunes:title>Father&apos;s Day Frustration: Rays Silence Mets in Queens</itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[In this sobering episode of Mets Report, we dive deep into the Father's Day disappointment at Citi Field as the Mets suffered a crushing defeat against the Tampa Bay Rays. The episode unpacks Shane Baz's masterful pitching performance, who alongside three relievers, orchestrated a five-hit shutout that left Mets fans heading early for the 7 train. Griffin Canning's continued struggles are analyzed in detail, drawing concerning parallels to the Oliver Perez era. The discussion highlights the Rays' impressive run, winning 18 of their last 24 games, and examines the devastating impact of Caminero's ninth-inning three-run homer off Stanek. Despite the tough loss, the episode maintains the resilient spirit of Mets fandom, echoing Tug McGraw's famous "Ya Gotta Believe" mantra while looking ahead to the upcoming Brewers series. This raw, honest analysis captures the emotional rollercoaster of being a Mets fan, blending historical context with current performance evaluation while maintaining the unwavering hope that defines the franchise's faithful followers.
+
+Further Reading:
+• "100 Things Mets Fans Should Know & Do Before They Die" - Book (https://amazon.com/100-Things-Should-Before-Death/dp/1629371408)
+• "The New York Mets: A Complete Illustrated History" - Book (https://amazon.com/New-York-Mets-Complete-Illustrated/dp/0760339597)
+• "The State of the Rays' Pitching Development" (https://www.fangraphs.com/rays-pitching-development)
+• "Shane Baz: Tampa Bay's Rising Star" (https://www.mlb.com/news/shane-baz-profile)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
+                    <itunes:summary><![CDATA[Mets suffer shutout loss to Rays, Baz dominates as Tampa wins 18 of last 24 games]]></itunes:summary>
+                    <content:encoded><![CDATA[In this sobering episode of Mets Report, we dive deep into the Father's Day disappointment at Citi Field as the Mets suffered a crushing defeat against the Tampa Bay Rays. The episode unpacks Shane Baz's masterful pitching performance, who alongside three relievers, orchestrated a five-hit shutout that left Mets fans heading early for the 7 train. Griffin Canning's continued struggles are analyzed in detail, drawing concerning parallels to the Oliver Perez era. The discussion highlights the Rays' impressive run, winning 18 of their last 24 games, and examines the devastating impact of Caminero's ninth-inning three-run homer off Stanek. Despite the tough loss, the episode maintains the resilient spirit of Mets fandom, echoing Tug McGraw's famous "Ya Gotta Believe" mantra while looking ahead to the upcoming Brewers series. This raw, honest analysis captures the emotional rollercoaster of being a Mets fan, blending historical context with current performance evaluation while maintaining the unwavering hope that defines the franchise's faithful followers.
+
+Further Reading:
+• "100 Things Mets Fans Should Know & Do Before They Die" - Book (https://amazon.com/100-Things-Should-Before-Death/dp/1629371408)
+• "The New York Mets: A Complete Illustrated History" - Book (https://amazon.com/New-York-Mets-Complete-Illustrated/dp/0760339597)
+• "The State of the Rays' Pitching Development" (https://www.fangraphs.com/rays-pitching-development)
+• "Shane Baz: Tampa Bay's Rising Star" (https://www.mlb.com/news/shane-baz-profile)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
+                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750259783/airtable_audio/recMMI96UfNIdQ61e-bf16a.mp3"
+                              length="951385"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">recMMI96UfNIdQ61e</guid>
+                    <pubDate>Mon, 16 Jun 2025 05:25:00 GMT</pubDate>
+                    <itunes:duration>00:01:59</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords>tech,updates,news</itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+                </item>
+                <item>
+                    <title>Marlins Series Preview: Can the Red-Hot Mets Keep Rolling</title>
+                    <itunes:title>Marlins Series Preview: Can the Red-Hot Mets Keep Rolling</itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[In this highly anticipated episode of the Mets Report, we dive deep into the upcoming three-game series against the Miami Marlins at Citi Field. Despite the Marlins' struggling 25-41 record, the episode highlights the importance of remaining vigilant, especially with Sandy Alcantara finding his rhythm after a recent scoreless outing. The Mets, sitting comfortably at 45-28 and leading the NL East, showcase an explosive offense led by the formidable trio of Pete Alonso, Francisco Lindor, and Juan Soto, drawing compelling parallels to the legendary 2006 lineup. Advanced analytics paint an optimistic picture with 96.2% playoff odds and a 13.1% chance at a championship run. Brandon Nimmo's exceptional on-base performance and the team's overall momentum suggest an exciting series ahead. The episode captures the electric atmosphere building at Citi Field, with perfect baseball weather forecasted and the potential for another memorable June series against the Marlins, reminiscent of last year's dramatic ninth-inning comeback that catalyzed the team's summer success.
+
+Further Reading:
+• "Baseball Prospectus 2025" - Book (https://amazon.com/Baseball-Prospectus-2025)
+• "The New York Mets: A Complete Illustrated History" - Book (https://amazon.com/New-York-Mets-Complete-History)
+• "Inside the Marlins-Mets Rivalry" (https://mlb.com/news/marlins-mets-rivalry-history)
+• "The Analytics Edge: Modern Baseball Statistics" (https://fangraphs.com/analytics-edge)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
+                    <itunes:summary><![CDATA[Mets host Marlins, aiming to extend NL East lead with powerful lineup and high playoff odds.]]></itunes:summary>
+                    <content:encoded><![CDATA[In this highly anticipated episode of the Mets Report, we dive deep into the upcoming three-game series against the Miami Marlins at Citi Field. Despite the Marlins' struggling 25-41 record, the episode highlights the importance of remaining vigilant, especially with Sandy Alcantara finding his rhythm after a recent scoreless outing. The Mets, sitting comfortably at 45-28 and leading the NL East, showcase an explosive offense led by the formidable trio of Pete Alonso, Francisco Lindor, and Juan Soto, drawing compelling parallels to the legendary 2006 lineup. Advanced analytics paint an optimistic picture with 96.2% playoff odds and a 13.1% chance at a championship run. Brandon Nimmo's exceptional on-base performance and the team's overall momentum suggest an exciting series ahead. The episode captures the electric atmosphere building at Citi Field, with perfect baseball weather forecasted and the potential for another memorable June series against the Marlins, reminiscent of last year's dramatic ninth-inning comeback that catalyzed the team's summer success.
+
+Further Reading:
+• "Baseball Prospectus 2025" - Book (https://amazon.com/Baseball-Prospectus-2025)
+• "The New York Mets: A Complete Illustrated History" - Book (https://amazon.com/New-York-Mets-Complete-History)
+• "Inside the Marlins-Mets Rivalry" (https://mlb.com/news/marlins-mets-rivalry-history)
+• "The Analytics Edge: Modern Baseball Statistics" (https://fangraphs.com/analytics-edge)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
+                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750259788/airtable_audio/recMUSoyGG4MjsXpN-c048a.mp3"
+                              length="1089846"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">recMUSoyGG4MjsXpN</guid>
+                    <pubDate>Tue, 17 Jun 2025 05:38:00 GMT</pubDate>
+                    <itunes:duration>00:02:16</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords>tech,updates,news</itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+                </item>
+                <item>
+                    <title>Bullpen Blues: Another Late-Inning Meltdown in Atlanta</title>
+                    <itunes:title>Bullpen Blues: Another Late-Inning Meltdown in Atlanta</itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[In this emotionally charged episode of Mets Report, we break down the heartbreaking extra-innings loss to the Atlanta Braves at Truist Park. What started as a promising three-run lead through seven innings quickly unraveled into another devastating defeat for the New York Mets. The episode dissects the critical moments that led to the team's fourth consecutive loss, particularly focusing on the pivotal eighth-inning collapse and Austin Riley's walk-off sacrifice fly in the tenth. Special attention is paid to Huascar Brazoban's ill-fated first-pitch decision against Riley with bases loaded, highlighting the ongoing bullpen struggles that continue to plague the team. Through detailed game analysis and passionate commentary, this episode captures the frustration of Mets fans while examining the strategic missteps that turned a potential victory into a demoralizing 4-3 loss. The intimate narrative weaves together technical baseball analysis with the raw emotional experience of following the 2025 Mets, offering both statistical insight and heartfelt perspective on a game that epitomizes the team's recent struggles.
+
+Further Reading:
+• "The New York Mets: A Complete History - Book" (https://amazon.com/books/new-york-mets-complete-history)
+• "Baseball Bullpen Management Strategies - Book" (https://amazon.com/books/baseball-bullpen-management)
+• "Mets vs. Braves: Inside Baseball's Most Heated Modern Rivalry" (https://mlb.com/mets-braves-rivalry)
+• "The Art of Relief Pitching in Modern Baseball" (https://fangraphs.com/relief-pitching-analysis)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
+                    <itunes:summary><![CDATA[Mets suffer heartbreaking extra-innings loss to Braves, bullpen collapses in 4-3 defeat at Truist Park.]]></itunes:summary>
+                    <content:encoded><![CDATA[In this emotionally charged episode of Mets Report, we break down the heartbreaking extra-innings loss to the Atlanta Braves at Truist Park. What started as a promising three-run lead through seven innings quickly unraveled into another devastating defeat for the New York Mets. The episode dissects the critical moments that led to the team's fourth consecutive loss, particularly focusing on the pivotal eighth-inning collapse and Austin Riley's walk-off sacrifice fly in the tenth. Special attention is paid to Huascar Brazoban's ill-fated first-pitch decision against Riley with bases loaded, highlighting the ongoing bullpen struggles that continue to plague the team. Through detailed game analysis and passionate commentary, this episode captures the frustration of Mets fans while examining the strategic missteps that turned a potential victory into a demoralizing 4-3 loss. The intimate narrative weaves together technical baseball analysis with the raw emotional experience of following the 2025 Mets, offering both statistical insight and heartfelt perspective on a game that epitomizes the team's recent struggles.
+
+Further Reading:
+• "The New York Mets: A Complete History - Book" (https://amazon.com/books/new-york-mets-complete-history)
+• "Baseball Bullpen Management Strategies - Book" (https://amazon.com/books/baseball-bullpen-management)
+• "Mets vs. Braves: Inside Baseball's Most Heated Modern Rivalry" (https://mlb.com/mets-braves-rivalry)
+• "The Art of Relief Pitching in Modern Baseball" (https://fangraphs.com/relief-pitching-analysis)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
+                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750266212/airtable_audio/rechqq3y4jzy6k8fV-33c44.mp3"
+                              length="872615"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">rechqq3y4jzy6k8fV</guid>
+                    <pubDate>Wed, 18 Jun 2025 17:00:00 GMT</pubDate>
+                    <itunes:duration>00:01:49</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords>tech,updates,news</itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+                </item>
+    </channel>
 </rss>
