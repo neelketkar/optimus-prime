@@ -1,173 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-    <rss version="2.0" 
-         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-         xmlns:atom="http://www.w3.org/2005/Atom"
-         xmlns:content="http://purl.org/rss/1.0/modules/content/"
-         xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
-    <channel>
-        <title>Mets Report</title>
-        <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
-        <language>en-us</language>
-        <copyright>(c) 2025. All rights reserved.</copyright>
-        <managingEditor>WonderAI (pukka.flashy5g@icloud.com)</managingEditor>
-        <generator>Airtable</generator>
-        <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/mets-report.xml" rel="self" type="application/rss+xml"/>
-        <itunes:owner>
-            <itunes:name>WonderAI</itunes:name>
-            <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
-        </itunes:owner>
-        <itunes:author>WonderAI</itunes:author>
-        <description><![CDATA[Step into the heart of Queens with Mets Report, your essential daily companion for everything New York Mets. From crucial game recaps to insider analysis, this podcast delivers comprehensive coverage of the orange and blue, synthesizing perspectives from trusted beat writers, social media buzz, and official team communications. Each episode breaks down the latest developments, diving deep into player performances, strategic decisions, and the stories that shape the team&apos;s journey.
+<rss version="2.0" 
+    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+    xmlns:atom="http://www.w3.org/2005/Atom"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
+  <channel>
+    <title>Mets Report</title>
+    <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
+    <language>en-us</language>
+    <itunes:author>WonderAI</itunes:author>
+    <itunes:summary>Daily podcast delivering comprehensive New York Mets coverage through game analysis insider updates and fan perspectives.</itunes:summary>
+    <description>Step into the heart of Queens with Mets Report, your essential daily companion for everything New York Mets. From crucial game recaps to insider analysis, this podcast delivers comprehensive coverage of the orange and blue, synthesizing perspectives from trusted beat writers, social media buzz, and official team communications. Each episode breaks down the latest developments, diving deep into player performances, strategic decisions, and the stories that shape the team's journey.
 
-Whether you&apos;re dissecting last night&apos;s extra-inning thriller or exploring the implications of the latest roster move, Mets Report combines statistical insight with passionate fandom. Host commentary weaves together multiple sources - from New York Post headlines to Reddit theories, Twitter trends to SNY highlights - creating a complete picture of the Mets&apos; universe that goes beyond basic box scores.
+Whether you're dissecting last night's extra-inning thriller or exploring the implications of the latest roster move, Mets Report combines statistical insight with passionate fandom. Host commentary weaves together multiple sources - from New York Post headlines to Reddit theories, Twitter trends to SNY highlights - creating a complete picture of the Mets' universe that goes beyond basic box scores.
 
-Disclaimer: This podcast is independently produced and is not affiliated with the New York Mets, Major League Baseball, or any of their partners. All statistics and information are gathered from publicly available sources.]]></description>
-        <itunes:summary><![CDATA[Daily podcast delivering comprehensive New York Mets coverage through game analysis insider updates and fan perspectives.]]></itunes:summary>
-        <itunes:type>episodic</itunes:type>
-        <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
-        <image>
-            <url>https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg</url>
-            <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
-            <title>Mets Report</title>
-        </image>
-        <itunes:category text="Sports &gt; Baseball, News &gt; Sports News, Sports &gt; Sports Commentary"/>
-        <itunes:explicit>no</itunes:explicit>
-        <itunes:keywords>tech,digital,startups,AI,crypto</itunes:keywords>
-                <item>
-                    <title>Mets Hit Rock Bottom: Father&apos;s Day Sweep Stings at Citi</title>
-                    <itunes:title>Mets Hit Rock Bottom: Father&apos;s Day Sweep Stings at Citi</itunes:title>
-                    <itunes:episodeType>full</itunes:episodeType>
-                    <description><![CDATA[In this sobering episode of Mets Report, we dive deep into the painful aftermath of a 9-0 shutout loss to the Tampa Bay Rays, completing a devastating home sweep at Citi Field on Father's Day 2025. The episode provides a raw, honest analysis of the Mets' offensive struggles, managing just five hits against Shane Baz and the dominant Rays bullpen. Griffin Canning's concerning performance highlights growing questions about the rotation depth that seemed so promising earlier in the season. The discussion contextualizes this defeat within the broader narrative of the Rays' impressive run, winning 18 of their last 24 games, while examining the implications for the Mets' season. Through personal reflection and historical perspective, the episode captures the emotional rollercoaster of Mets fandom, balancing frustration with resilience and hope. Despite the tough loss, listeners gain valuable insight into the team's current challenges and the broader context of their season trajectory, all while maintaining that quintessential mix of analysis and emotional investment that defines the Mets Report podcast.
-
-Further Reading:
-• "Baseball Prospectus 2025" - Book (https://amazon.com/books/baseball-prospectus-2025)
-• "The New York Mets: A Complete Illustrated History" - Book (https://amazon.com/books/new-york-mets-illustrated-history)
-• "The State of the Mets' Rotation" (https://fangraphs.com/mets-rotation-analysis)
-• "Tampa Bay's Rise to Dominance" (https://theathletic.com/rays-dominance-2025)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
-                    <itunes:summary><![CDATA[Mets suffer 9-0 shutout loss to Rays, highlighting offensive struggles and pitching concerns on Father's Day]]></itunes:summary>
-                    <content:encoded><![CDATA[In this sobering episode of Mets Report, we dive deep into the painful aftermath of a 9-0 shutout loss to the Tampa Bay Rays, completing a devastating home sweep at Citi Field on Father's Day 2025. The episode provides a raw, honest analysis of the Mets' offensive struggles, managing just five hits against Shane Baz and the dominant Rays bullpen. Griffin Canning's concerning performance highlights growing questions about the rotation depth that seemed so promising earlier in the season. The discussion contextualizes this defeat within the broader narrative of the Rays' impressive run, winning 18 of their last 24 games, while examining the implications for the Mets' season. Through personal reflection and historical perspective, the episode captures the emotional rollercoaster of Mets fandom, balancing frustration with resilience and hope. Despite the tough loss, listeners gain valuable insight into the team's current challenges and the broader context of their season trajectory, all while maintaining that quintessential mix of analysis and emotional investment that defines the Mets Report podcast.
-
-Further Reading:
-• "Baseball Prospectus 2025" - Book (https://amazon.com/books/baseball-prospectus-2025)
-• "The New York Mets: A Complete Illustrated History" - Book (https://amazon.com/books/new-york-mets-illustrated-history)
-• "The State of the Mets' Rotation" (https://fangraphs.com/mets-rotation-analysis)
-• "Tampa Bay's Rise to Dominance" (https://theathletic.com/rays-dominance-2025)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
-                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750858547/airtable_audio/recMMI96UfNIdQ61e-855e5.mp3"
-                              length="1040615"
-                              type="audio/mpeg"
-                              bitrate="128000"/>
-                    <guid isPermaLink="false">recMMI96UfNIdQ61e</guid>
-                    <pubDate>Mon, 16 Jun 2025 05:25:00 GMT</pubDate>
-                    <itunes:duration>00:02:10</itunes:duration>
-                    <itunes:explicit>no</itunes:explicit>
-                    <itunes:keywords>tech,updates,news</itunes:keywords>
-                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
-                </item>
-                <item>
-                    <title>Alcantara vs Peterson: A Marlins Showdown Preview</title>
-                    <itunes:title>Alcantara vs Peterson: A Marlins Showdown Preview</itunes:title>
-                    <itunes:episodeType>full</itunes:episodeType>
-                    <description><![CDATA[In this strategic preview episode of Mets Report, dive into the upcoming Mets-Marlins series with expert analysis of the critical matchups and key players. The spotlight shines on Marlins' ace Sandy Alcantara, who's showing resurgent form following his first scoreless outing of the season, setting up an intriguing battle against the red-hot Mets lineup. The episode breaks down David Peterson's start, drawing compelling parallels to his dominant April performance against Miami, while highlighting his evolution on the mound. Special attention is paid to the vulnerable Marlins bullpen, which could prove decisive in the series outcome. The analysis weaves together historical context, current statistics, and strategic insights, offering Mets fans a comprehensive preview of what promises to be a pivotal series in the 2025 campaign. From pitching matchups to offensive trends, this episode equips listeners with essential knowledge while maintaining the passionate perspective that defines Mets Report's coverage.
-
-Further Reading:
-• "Baseball Prospectus 2025" - Book (https://amazon.com/Baseball-Prospectus-2025)
-• "The New Bill James Historical Baseball Abstract" - Book (https://amazon.com/New-Bill-James-Historical-Baseball)
-• "Mets-Marlins Series Preview" (https://mlb.com/news/mets-marlins-series-preview-june-2025)
-• "Sandy Alcantara: The Return to Form" (https://fangraphs.com/sandy-alcantara-analysis-2025)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
-                    <itunes:summary><![CDATA[Mets-Marlins series preview: Alcantara's resurgence, Peterson's pitching, and bullpen dynamics key to matchup]]></itunes:summary>
-                    <content:encoded><![CDATA[In this strategic preview episode of Mets Report, dive into the upcoming Mets-Marlins series with expert analysis of the critical matchups and key players. The spotlight shines on Marlins' ace Sandy Alcantara, who's showing resurgent form following his first scoreless outing of the season, setting up an intriguing battle against the red-hot Mets lineup. The episode breaks down David Peterson's start, drawing compelling parallels to his dominant April performance against Miami, while highlighting his evolution on the mound. Special attention is paid to the vulnerable Marlins bullpen, which could prove decisive in the series outcome. The analysis weaves together historical context, current statistics, and strategic insights, offering Mets fans a comprehensive preview of what promises to be a pivotal series in the 2025 campaign. From pitching matchups to offensive trends, this episode equips listeners with essential knowledge while maintaining the passionate perspective that defines Mets Report's coverage.
-
-Further Reading:
-• "Baseball Prospectus 2025" - Book (https://amazon.com/Baseball-Prospectus-2025)
-• "The New Bill James Historical Baseball Abstract" - Book (https://amazon.com/New-Bill-James-Historical-Baseball)
-• "Mets-Marlins Series Preview" (https://mlb.com/news/mets-marlins-series-preview-june-2025)
-• "Sandy Alcantara: The Return to Form" (https://fangraphs.com/sandy-alcantara-analysis-2025)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
-                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750858546/airtable_audio/recMUSoyGG4MjsXpN-855ac.mp3"
-                              length="710769"
-                              type="audio/mpeg"
-                              bitrate="128000"/>
-                    <guid isPermaLink="false">recMUSoyGG4MjsXpN</guid>
-                    <pubDate>Tue, 17 Jun 2025 05:38:00 GMT</pubDate>
-                    <itunes:duration>00:01:29</itunes:duration>
-                    <itunes:explicit>yes</itunes:explicit>
-                    <itunes:keywords>tech,updates,news</itunes:keywords>
-                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
-                </item>
-                <item>
-                    <title>Phillies Crush Mets Dreams in Brutal 7th Inning Collapse</title>
-                    <itunes:title>Phillies Crush Mets Dreams in Brutal 7th Inning Collapse</itunes:title>
-                    <itunes:episodeType>full</itunes:episodeType>
-                    <description><![CDATA[In this emotionally charged episode of Mets Report, we dive deep into a pivotal NL East showdown at Citizens Bank Park where the New York Mets suffered a devastating loss to the Philadelphia Phillies. The defeat proved especially painful as it resulted in the Phillies (46-30) overtaking the Mets (45-31) for the division lead. The game's turning point came in a catastrophic seventh inning where the Phillies exploded for six runs, followed by Nick Castellanos's emphatic 428-foot home run in the eighth that sealed the Mets' fate. The episode captures the raw frustration and unwavering hope that defines Mets fandom, drawing parallels to historic moments while maintaining perspective on the series' broader implications. Through passionate commentary and historical references, including a nostalgic nod to the 1986 season, this installment perfectly encapsulates the emotional rollercoaster of following the Mets during a heated pennant race. Despite the setback, the episode concludes with a rallying cry embodying the timeless Mets motto "Ya Gotta Believe," as the team looks to bounce back in the remaining two games of this crucial series.
-
-Further Reading:
-• "Baseball Prospectus 2025" - Book (https://amazon.com/Baseball-Prospectus-2025)
-• "The Mets-Phillies Rivalry: A History" - Book (https://amazon.com/Mets-Phillies-Rivalry-History)
-• "The Evolution of the NL East" (https://mlb.com/news/nl-east-evolution)
-• "Citizens Bank Park: A Visitor's Guide" (https://phillies.com/ballpark/guide)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
-                    <itunes:summary><![CDATA[Mets fall to Phillies in heartbreaking loss, dropping division lead after six-run seventh inning]]></itunes:summary>
-                    <content:encoded><![CDATA[In this emotionally charged episode of Mets Report, we dive deep into a pivotal NL East showdown at Citizens Bank Park where the New York Mets suffered a devastating loss to the Philadelphia Phillies. The defeat proved especially painful as it resulted in the Phillies (46-30) overtaking the Mets (45-31) for the division lead. The game's turning point came in a catastrophic seventh inning where the Phillies exploded for six runs, followed by Nick Castellanos's emphatic 428-foot home run in the eighth that sealed the Mets' fate. The episode captures the raw frustration and unwavering hope that defines Mets fandom, drawing parallels to historic moments while maintaining perspective on the series' broader implications. Through passionate commentary and historical references, including a nostalgic nod to the 1986 season, this installment perfectly encapsulates the emotional rollercoaster of following the Mets during a heated pennant race. Despite the setback, the episode concludes with a rallying cry embodying the timeless Mets motto "Ya Gotta Believe," as the team looks to bounce back in the remaining two games of this crucial series.
-
-Further Reading:
-• "Baseball Prospectus 2025" - Book (https://amazon.com/Baseball-Prospectus-2025)
-• "The Mets-Phillies Rivalry: A History" - Book (https://amazon.com/Mets-Phillies-Rivalry-History)
-• "The Evolution of the NL East" (https://mlb.com/news/nl-east-evolution)
-• "Citizens Bank Park: A Visitor's Guide" (https://phillies.com/ballpark/guide)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
-                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750858680/airtable_audio/recPVqrkqtTZIpLmF-a60f3.mp3"
-                              length="980923"
-                              type="audio/mpeg"
-                              bitrate="128000"/>
-                    <guid isPermaLink="false">recPVqrkqtTZIpLmF</guid>
-                    <pubDate>Sat, 21 Jun 2025 05:51:00 GMT</pubDate>
-                    <itunes:duration>00:02:03</itunes:duration>
-                    <itunes:explicit>no</itunes:explicit>
-                    <itunes:keywords>tech,updates,news</itunes:keywords>
-                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
-                </item>
-                <item>
-                    <title>Strider Strikes Again: Braves Complete Brutal Sweep</title>
-                    <itunes:title>Strider Strikes Again: Braves Complete Brutal Sweep</itunes:title>
-                    <itunes:episodeType>full</itunes:episodeType>
-                    <description><![CDATA[In this sobering episode of Mets Report, we dive deep into the aftermath of a challenging three-game sweep by the Atlanta Braves, culminating in a decisive 7-1 loss in the series finale. Spencer Strider continued his dominance against the Mets, delivering another masterclass performance with 8 strikeouts through six innings, bringing his impressive total to 21 strikeouts in his last 12 frames. The game's pivotal moment came in the fourth inning when Matt Olson's bases-clearing double effectively sealed the Mets' fate. This loss extends the team's current skid to six games, their longest losing streak of the 2025 season. Despite the mounting frustration, the episode draws inspiring parallels to historic Mets comebacks, including the legendary 1969 Miracle Mets and the "Ya Gotta Believe" team of 1973, offering a glimmer of hope for fans. Looking ahead, the podcast previews a crucial three-game series against the Marlins, presenting an opportunity for the team to reverse their fortunes and rediscover their winning form.
-
-Further Reading:
-• "Can't Anyone Here Play This Game?: The Improbable Saga of the New York Mets' First Year - Book" (https://amazon.com/dp/1566635993)
-• "The Miracle Has Landed: The Amazin' Story of How the 1969 Mets Shocked The World - Book" (https://amazon.com/dp/1934186171)
-• "Mets' Six-Game Skid Raises Questions About Season Direction" (https://mlb.com/news/mets-losing-streak-analysis)
-• "Spencer Strider's Dominance Against Division Rivals Continues" (https://theathletic.com/mlb/braves/strider-analysis)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
-                    <itunes:summary><![CDATA[Mets suffer 7-1 sweep by Braves, six-game losing streak continues amid Strider's dominance]]></itunes:summary>
-                    <content:encoded><![CDATA[In this sobering episode of Mets Report, we dive deep into the aftermath of a challenging three-game sweep by the Atlanta Braves, culminating in a decisive 7-1 loss in the series finale. Spencer Strider continued his dominance against the Mets, delivering another masterclass performance with 8 strikeouts through six innings, bringing his impressive total to 21 strikeouts in his last 12 frames. The game's pivotal moment came in the fourth inning when Matt Olson's bases-clearing double effectively sealed the Mets' fate. This loss extends the team's current skid to six games, their longest losing streak of the 2025 season. Despite the mounting frustration, the episode draws inspiring parallels to historic Mets comebacks, including the legendary 1969 Miracle Mets and the "Ya Gotta Believe" team of 1973, offering a glimmer of hope for fans. Looking ahead, the podcast previews a crucial three-game series against the Marlins, presenting an opportunity for the team to reverse their fortunes and rediscover their winning form.
-
-Further Reading:
-• "Can't Anyone Here Play This Game?: The Improbable Saga of the New York Mets' First Year - Book" (https://amazon.com/dp/1566635993)
-• "The Miracle Has Landed: The Amazin' Story of How the 1969 Mets Shocked The World - Book" (https://amazon.com/dp/1934186171)
-• "Mets' Six-Game Skid Raises Questions About Season Direction" (https://mlb.com/news/mets-losing-streak-analysis)
-• "Spencer Strider's Dominance Against Division Rivals Continues" (https://theathletic.com/mlb/braves/strider-analysis)
-
-Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
-                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750858648/airtable_audio/rechqq3y4jzy6k8fV-9e462.mp3"
-                              length="776615"
-                              type="audio/mpeg"
-                              bitrate="128000"/>
-                    <guid isPermaLink="false">rechqq3y4jzy6k8fV</guid>
-                    <pubDate>Thu, 19 Jun 2025 17:00:00 GMT</pubDate>
-                    <itunes:duration>00:01:37</itunes:duration>
-                    <itunes:explicit>no</itunes:explicit>
-                    <itunes:keywords>tech,updates,news</itunes:keywords>
-                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
-                </item>
-    </channel>
+Disclaimer: This podcast is independently produced and is not affiliated with the New York Mets, Major League Baseball, or any of their partners. All statistics and information are gathered from publicly available sources.</description>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:owner>
+      <itunes:name>WonderAI</itunes:name>
+      <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg" />
+    <itunes:category text="Sports > Baseball, News > Sports News, Sports > Sports Commentary" />
+    <copyright>(c) 2025. All rights reserved.</copyright>
+    <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/mets-report.xml" rel="self" type="application/rss+xml"/>
+    <generator>Airtable</generator>
+  </channel>
 </rss>
