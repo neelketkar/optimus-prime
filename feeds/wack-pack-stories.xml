@@ -33,6 +33,24 @@ Disclaimer: This podcast contains adult content and language. All content relate
         <itunes:category text="Comedy &gt; Comedy Interviews, Entertainment &gt; TV &amp; Film, Society &amp; Culture &gt; Personal Journals"/>
         <itunes:explicit>yes</itunes:explicit>
                 <item>
+                    <title></title>
+                    <itunes:title></itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[]]></description>
+                    <itunes:summary><![CDATA[]]></itunes:summary>
+                    <content:encoded><![CDATA[]]></content:encoded>
+                    <enclosure url=""
+                              length="0"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">recQ2w64gjxRGZNvA</guid>
+                    <pubDate>Fri, 11 Jul 2025 06:00:00 GMT</pubDate>
+                    <itunes:duration>00:00:00</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords></itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750007787/airtable_audio/recDpa1nfK149mwlL-c02e6.jpg"/>
+                </item>
+                <item>
                     <title>Howard Stern: The Five Moments That Changed Radio Forever</title>
                     <itunes:title>Howard Stern: The Five Moments That Changed Radio Forever</itunes:title>
                     <itunes:episodeType>full</itunes:episodeType>
