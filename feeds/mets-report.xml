@@ -1,29 +1,172 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" 
-    xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-    xmlns:atom="http://www.w3.org/2005/Atom"
-    xmlns:content="http://purl.org/rss/1.0/modules/content/"
-    xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
-  <channel>
-    <title>Mets Report</title>
-    <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
-    <language>en-us</language>
-    <itunes:author>WonderAI</itunes:author>
-    <itunes:summary>Daily podcast delivering comprehensive New York Mets coverage through game analysis insider updates and fan perspectives.</itunes:summary>
-    <description>Step into the heart of Queens with Mets Report, your essential daily companion for everything New York Mets. From crucial game recaps to insider analysis, this podcast delivers comprehensive coverage of the orange and blue, synthesizing perspectives from trusted beat writers, social media buzz, and official team communications. Each episode breaks down the latest developments, diving deep into player performances, strategic decisions, and the stories that shape the team's journey.
+    <rss version="2.0" 
+         xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+         xmlns:atom="http://www.w3.org/2005/Atom"
+         xmlns:content="http://purl.org/rss/1.0/modules/content/"
+         xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0/">
+    <channel>
+        <title>Mets Report</title>
+        <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
+        <language>en-us</language>
+        <copyright>(c) 2025. All rights reserved.</copyright>
+        <managingEditor>WonderAI (pukka.flashy5g@icloud.com)</managingEditor>
+        <generator>Airtable</generator>
+        <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/mets-report.xml" rel="self" type="application/rss+xml"/>
+        <itunes:owner>
+            <itunes:name>WonderAI</itunes:name>
+            <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>WonderAI</itunes:author>
+        <description><![CDATA[Step into the heart of Queens with Mets Report, your essential daily companion for everything New York Mets. From crucial game recaps to insider analysis, this podcast delivers comprehensive coverage of the orange and blue, synthesizing perspectives from trusted beat writers, social media buzz, and official team communications. Each episode breaks down the latest developments, diving deep into player performances, strategic decisions, and the stories that shape the team's journey.
 
 Whether you're dissecting last night's extra-inning thriller or exploring the implications of the latest roster move, Mets Report combines statistical insight with passionate fandom. Host commentary weaves together multiple sources - from New York Post headlines to Reddit theories, Twitter trends to SNY highlights - creating a complete picture of the Mets' universe that goes beyond basic box scores.
 
-Disclaimer: This podcast is independently produced and is not affiliated with the New York Mets, Major League Baseball, or any of their partners. All statistics and information are gathered from publicly available sources.</description>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:owner>
-      <itunes:name>WonderAI</itunes:name>
-      <itunes:email>pukka.flashy5g@icloud.com</itunes:email>
-    </itunes:owner>
-    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg" />
-    <itunes:category text="Sports > Baseball, News > Sports News, Sports > Sports Commentary" />
-    <copyright>(c) 2025. All rights reserved.</copyright>
-    <atom:link href="https://neelketkar.github.io/optimus-prime/feeds/mets-report.xml" rel="self" type="application/rss+xml"/>
-    <generator>Airtable</generator>
-  </channel>
+Disclaimer: This podcast is independently produced and is not affiliated with the New York Mets, Major League Baseball, or any of their partners. All statistics and information are gathered from publicly available sources.]]></description>
+        <itunes:summary><![CDATA[Daily podcast delivering comprehensive New York Mets coverage through game analysis insider updates and fan perspectives.]]></itunes:summary>
+        <itunes:type>episodic</itunes:type>
+        <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+        <image>
+            <url>https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg</url>
+            <link>https://airtable.com/apprnmgBvtYIQBQbT/pagdckUa8gmwDiUrv/form</link>
+            <title>Mets Report</title>
+        </image>
+        <itunes:category text="Sports &gt; Baseball, News &gt; Sports News, Sports &gt; Sports Commentary"/>
+        <itunes:explicit>no</itunes:explicit>
+                <item>
+                    <title>Phillies Nightmare: Six-Run Seventh Sinks Mets</title>
+                    <itunes:title>Phillies Nightmare: Six-Run Seventh Sinks Mets</itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[A crushing defeat unfolds at Citizens Bank Park as the Philadelphia Phillies overtake the New York Mets for first place in the NL East with a decisive 10-2 victory. The game's turning point came in a devastating seventh inning where the Phillies erupted for six runs, transforming a close contest into a commanding lead. Nick Castellanos delivered the final blow with a towering 428-foot home run to center field in the eighth inning, further cementing the Phillies' dominance. The loss drops the Mets to 45-31 while propelling the Phillies to 46-30 in the standings. Despite the setback, the series continues with two more crucial games that could determine the momentum in this heated NL East rivalry. The Mets' resilience will be tested as they aim to reclaim their position atop the division, channeling the spirit of their historic 1986 championship team while facing this modern-day challenge at Citizens Bank Park.
+
+Learn More:
+• 'MLB Game Recap: Phillies vs. Mets' (https://www.mlb.com/news/phillies-beat-mets-to-move-into-first-place-in-nl-east)
+• 'Complete Game Coverage' (https://www.espn.com/mlb/recap?gameId=401696036)
+• 'Phillies Game Highlights' (https://www.mlb.com/phillies/video/nick-castellanos-homers-10-on-a-fly-ball-to-left-field-8fstli)
+• '1986 New York Mets: A Year to Remember - Book' (https://www.amazon.com/1986-New-York-Mets-Remember/dp/1613219695)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
+                    <itunes:summary><![CDATA[Phillies crush Mets 10-2, take NL East lead with six-run seventh and Castellanos' homer]]></itunes:summary>
+                    <content:encoded><![CDATA[A crushing defeat unfolds at Citizens Bank Park as the Philadelphia Phillies overtake the New York Mets for first place in the NL East with a decisive 10-2 victory. The game's turning point came in a devastating seventh inning where the Phillies erupted for six runs, transforming a close contest into a commanding lead. Nick Castellanos delivered the final blow with a towering 428-foot home run to center field in the eighth inning, further cementing the Phillies' dominance. The loss drops the Mets to 45-31 while propelling the Phillies to 46-30 in the standings. Despite the setback, the series continues with two more crucial games that could determine the momentum in this heated NL East rivalry. The Mets' resilience will be tested as they aim to reclaim their position atop the division, channeling the spirit of their historic 1986 championship team while facing this modern-day challenge at Citizens Bank Park.
+
+Learn More:
+• 'MLB Game Recap: Phillies vs. Mets' (https://www.mlb.com/news/phillies-beat-mets-to-move-into-first-place-in-nl-east)
+• 'Complete Game Coverage' (https://www.espn.com/mlb/recap?gameId=401696036)
+• 'Phillies Game Highlights' (https://www.mlb.com/phillies/video/nick-castellanos-homers-10-on-a-fly-ball-to-left-field-8fstli)
+• '1986 New York Mets: A Year to Remember - Book' (https://www.amazon.com/1986-New-York-Mets-Remember/dp/1613219695)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
+                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750998010/airtable_audio/recPVqrkqtTZIpLmF-25ad.mp3"
+                              length="980923"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">recPVqrkqtTZIpLmF</guid>
+                    <pubDate>Sat, 21 Jun 2025 05:51:00 GMT</pubDate>
+                    <itunes:duration>00:02:03</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>Baseball Game Analysis, Phillies vs Mets, NL East Division Race, Team Performance</itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+                </item>
+                <item>
+                    <title>Strider Strikes Again: Braves Complete Brutal Sweep</title>
+                    <itunes:title>Strider Strikes Again: Braves Complete Brutal Sweep</itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[Spencer Strider dominated with eight strikeouts over six innings as the Atlanta Braves completed a decisive sweep of the New York Mets with a 7-1 victory at Truist Park. The crushing blow came in the fourth inning when Matt Olson's bases-clearing three-run double broke the game open, extending the Mets' season-long losing streak to six games. Strider's masterful performance continued his recent dominance, having accumulated 21 strikeouts in his last 12 innings of work. The loss highlighted the Mets' offensive struggles and mounting challenges as they prepare for a crucial three-game series against the Marlins. Despite the setback, historical parallels to the 1969 "Miracle Mets" and the "Ya Gotta Believe" team of 1973 offer perspective on the potential for mid-season turnarounds in franchise history.
+
+Learn More:
+• MLB Game Recap (https://www.mlb.com/news/spencer-strider-matt-olson-lift-braves-to-series-sweep-of-mets)
+• ESPN Game Summary (https://www.espn.com/mlb/game/_/gameId/401696023/mets-braves)
+• Braves-Mets Rivalry History (https://en.wikipedia.org/wiki/Braves-Mets_rivalry)
+• "The Miracle Mets: The Story of the 1969 World Series Champions" - Book (https://www.amazon.com/Miracle-Mets-Story-World-Champions/dp/1683583698)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
+                    <itunes:summary><![CDATA[Strider's eight strikeouts lead Braves to 7-1 sweep of Mets, Olson's three-run double seals victory]]></itunes:summary>
+                    <content:encoded><![CDATA[Spencer Strider dominated with eight strikeouts over six innings as the Atlanta Braves completed a decisive sweep of the New York Mets with a 7-1 victory at Truist Park. The crushing blow came in the fourth inning when Matt Olson's bases-clearing three-run double broke the game open, extending the Mets' season-long losing streak to six games. Strider's masterful performance continued his recent dominance, having accumulated 21 strikeouts in his last 12 innings of work. The loss highlighted the Mets' offensive struggles and mounting challenges as they prepare for a crucial three-game series against the Marlins. Despite the setback, historical parallels to the 1969 "Miracle Mets" and the "Ya Gotta Believe" team of 1973 offer perspective on the potential for mid-season turnarounds in franchise history.
+
+Learn More:
+• MLB Game Recap (https://www.mlb.com/news/spencer-strider-matt-olson-lift-braves-to-series-sweep-of-mets)
+• ESPN Game Summary (https://www.espn.com/mlb/game/_/gameId/401696023/mets-braves)
+• Braves-Mets Rivalry History (https://en.wikipedia.org/wiki/Braves-Mets_rivalry)
+• "The Miracle Mets: The Story of the 1969 World Series Champions" - Book (https://www.amazon.com/Miracle-Mets-Story-World-Champions/dp/1683583698)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
+                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1751382045/airtable_audio/rechqq3y4jzy6k8fV-ae98.mp3"
+                              length="776615"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">rechqq3y4jzy6k8fV</guid>
+                    <pubDate>Thu, 19 Jun 2025 17:00:00 GMT</pubDate>
+                    <itunes:duration>00:01:37</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>Mets Game Recap, Braves Victory, Losing Streak, Team Morale</itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+                </item>
+                <item>
+                    <title>Alcantara vs Peterson: A Marlins Matchup Preview</title>
+                    <itunes:title>Alcantara vs Peterson: A Marlins Matchup Preview</itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[A pivotal NL East matchup looms as the New York Mets prepare to face the Miami Marlins, with former Cy Young winner Sandy Alcantara showing renewed dominance after recording his first scoreless start of the season. David Peterson takes the mound for the Mets, looking to replicate his masterful April performance against Miami that drew comparisons to Dwight Gooden's legendary 1985 campaign. While analytics suggest a tightly contested series, the Marlins' struggling bullpen could prove decisive. Peterson enters the matchup with impressive recent form, boasting a 1.78 ERA and 0.99 WHIP over his last 35 innings pitched. The series opener features a 7:10 PM start time, with Alcantara seeking to build on his resurgence while the red-hot Mets lineup aims to maintain their offensive momentum in this crucial division battle.
+
+Learn More:
+• 'MLB Trade Rumors: Mets' Interest in Marlins' Pitching' (https://www.mlbtraderumors.com/2025/07/mets-reportedly-among-teams-with-interest-in-edward-cabrera.html)
+• 'Mets Trade Deadline Analysis' (https://www.nytimes.com/athletic/6467508/2025/07/02/mets-trade-deadline-plans/)
+• 'Starting Pitcher Rankings - June 2025' (https://fantasy.fangraphs.com/starting-pitcher-chart-june-17th-2025/)
+• 'Mets vs. Brewers Game Recap' (https://wktysports.com/2025/07/04/mets-top-brewers-3-2-behind-nimmo-soto-and-peterson/)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
+                    <itunes:summary><![CDATA[Mets face Marlins with Peterson pitching, Alcantara returns as key division matchup unfolds]]></itunes:summary>
+                    <content:encoded><![CDATA[A pivotal NL East matchup looms as the New York Mets prepare to face the Miami Marlins, with former Cy Young winner Sandy Alcantara showing renewed dominance after recording his first scoreless start of the season. David Peterson takes the mound for the Mets, looking to replicate his masterful April performance against Miami that drew comparisons to Dwight Gooden's legendary 1985 campaign. While analytics suggest a tightly contested series, the Marlins' struggling bullpen could prove decisive. Peterson enters the matchup with impressive recent form, boasting a 1.78 ERA and 0.99 WHIP over his last 35 innings pitched. The series opener features a 7:10 PM start time, with Alcantara seeking to build on his resurgence while the red-hot Mets lineup aims to maintain their offensive momentum in this crucial division battle.
+
+Learn More:
+• 'MLB Trade Rumors: Mets' Interest in Marlins' Pitching' (https://www.mlbtraderumors.com/2025/07/mets-reportedly-among-teams-with-interest-in-edward-cabrera.html)
+• 'Mets Trade Deadline Analysis' (https://www.nytimes.com/athletic/6467508/2025/07/02/mets-trade-deadline-plans/)
+• 'Starting Pitcher Rankings - June 2025' (https://fantasy.fangraphs.com/starting-pitcher-chart-june-17th-2025/)
+• 'Mets vs. Brewers Game Recap' (https://wktysports.com/2025/07/04/mets-top-brewers-3-2-behind-nimmo-soto-and-peterson/)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
+                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750858546/airtable_audio/recMUSoyGG4MjsXpN-855ac.mp3"
+                              length="710769"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">recMUSoyGG4MjsXpN</guid>
+                    <pubDate>Tue, 17 Jun 2025 05:38:00 GMT</pubDate>
+                    <itunes:duration>00:01:29</itunes:duration>
+                    <itunes:explicit>yes</itunes:explicit>
+                    <itunes:keywords>Mets Baseball, Pitching Analysis, Marlins Series, Game Preview</itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+                </item>
+                <item>
+                    <title>Mets Hit Rock Bottom: Father&apos;s Day Sweep Stings at Citi</title>
+                    <itunes:title>Mets Hit Rock Bottom: Father&apos;s Day Sweep Stings at Citi</itunes:title>
+                    <itunes:episodeType>full</itunes:episodeType>
+                    <description><![CDATA[A dominant Father's Day performance by Shane Baz and the Tampa Bay Rays resulted in a crushing 9-0 victory over the New York Mets, completing their first series sweep of the 2025 season at Citi Field. The Rays' pitching staff masterfully limited the Mets to just five hits, while the struggling Griffin Canning suffered another concerning outing for New York. This victory extended the Rays' impressive run, marking their 18th win in 24 games, as they outscored the Mets 24-9 across the three-game series. Baz's stellar performance, going 6.2 scoreless innings with six strikeouts, showcased the Rays' pitching dominance. The shutout loss raises questions about the Mets' rotation depth, which appeared solid in April but has shown concerning signs of vulnerability as the season progresses.
+
+Learn More:
+• 'Baseball Tonight with Karl Ravech' (https://wondery.com/shows/baseball-tonight)
+• 'The New York Mets: A Complete Illustrated History - Book' (https://amazon.com/books/new-york-mets-complete-illustrated-history)
+• 'MLB.TV Game Archive: Rays at Mets - June 15, 2025' (https://mlb.tv/games/667782)
+• 'Inside the Rays' Recent Success' (https://theathletic.com/rays-success-analysis)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></description>
+                    <itunes:summary><![CDATA[Rays sweep Mets 9-0, Baz dominates with 6.2 scoreless innings on Father's Day]]></itunes:summary>
+                    <content:encoded><![CDATA[A dominant Father's Day performance by Shane Baz and the Tampa Bay Rays resulted in a crushing 9-0 victory over the New York Mets, completing their first series sweep of the 2025 season at Citi Field. The Rays' pitching staff masterfully limited the Mets to just five hits, while the struggling Griffin Canning suffered another concerning outing for New York. This victory extended the Rays' impressive run, marking their 18th win in 24 games, as they outscored the Mets 24-9 across the three-game series. Baz's stellar performance, going 6.2 scoreless innings with six strikeouts, showcased the Rays' pitching dominance. The shutout loss raises questions about the Mets' rotation depth, which appeared solid in April but has shown concerning signs of vulnerability as the season progresses.
+
+Learn More:
+• 'Baseball Tonight with Karl Ravech' (https://wondery.com/shows/baseball-tonight)
+• 'The New York Mets: A Complete Illustrated History - Book' (https://amazon.com/books/new-york-mets-complete-illustrated-history)
+• 'MLB.TV Game Archive: Rays at Mets - June 15, 2025' (https://mlb.tv/games/667782)
+• 'Inside the Rays' Recent Success' (https://theathletic.com/rays-success-analysis)
+
+Note: This content was generated using artificial intelligence and may contain factual errors or inaccuracies. Please verify any important information from reliable sources.]]></content:encoded>
+                    <enclosure url="https://res.cloudinary.com/dumslp4el/video/upload/v1750858547/airtable_audio/recMMI96UfNIdQ61e-855e5.mp3"
+                              length="1040615"
+                              type="audio/mpeg"
+                              bitrate="128000"/>
+                    <guid isPermaLink="false">recMMI96UfNIdQ61e</guid>
+                    <pubDate>Mon, 16 Jun 2025 05:25:00 GMT</pubDate>
+                    <itunes:duration>00:02:10</itunes:duration>
+                    <itunes:explicit>no</itunes:explicit>
+                    <itunes:keywords>Mets Game Recap, Rays Victory, Offensive Struggles, Pitching Performance, Baseball Series Sweep</itunes:keywords>
+                    <itunes:image href="https://res.cloudinary.com/dumslp4el/image/upload/v1750051483/airtable_audio/recpKzLmIHFbQlPqA-760bb.jpg"/>
+                </item><itunes:keywords>Baseball Game Analysis,Phillies vs Mets,NL East Division Race,Team Performance,Mets Game Recap,Braves Victory,Losing Streak,Team Morale,Mets Baseball,Pitching Analysis,Marlins Series,Game Preview,Rays Victory,Offensive Struggles,Pitching Performance,Baseball Series Sweep</itunes:keywords>
+    </channel>
 </rss>
